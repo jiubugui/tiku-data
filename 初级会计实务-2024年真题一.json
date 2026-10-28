@@ -1,0 +1,926 @@
+{
+  "schema_version": "2.0",
+  "scope": {
+    "exam_id": "assistant_accountant",
+    "exam_name": "初级会计职称",
+    "subject_id": "primary_accounting_practice",
+    "subject_name": "初级会计实务",
+    "paper_id": "2024_set1",
+    "paper_name": "2024年《初级会计实务》真题（一）"
+  },
+  "chapter_id": "paper_2024_set1",
+  "chapter_name": "2024年真题（一）",
+  "sections": [
+    {
+      "section_id": "single_choice",
+      "section_name": "单项选择题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q001",
+          "question_no": "1",
+          "type": "single_choice",
+          "stem": "下列各项中，企业应通过“销售费用”科目核算的是（ ）。",
+          "options": [
+            { "key": "A", "text": "出租包装物的摊销额" },
+            { "key": "B", "text": "计提专设销售机构设备的折旧额" },
+            { "key": "C", "text": "生产技术转让费用" },
+            { "key": "D", "text": "销售商品应交的消费税" }
+          ],
+          "answer": ["B"],
+          "analysis": "选项A，计入其他业务成本；选项C，计入资产处置损益；选项D，计入税金及附加。",
+          "tags": ["销售费用"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q002",
+          "question_no": "2",
+          "type": "single_choice",
+          "stem": "甲公司采用计划成本核算原材料。2×23年9月1日，库存M材料200千克，计划成本为40000元，成本差异为超支3000元，当月采购入库M材料800千克，计划成本为160000元，成本差异为节约5000元；生产领用M材料600千克，计划成本120000元，不考虑其他因素，2×23年9月，甲公司生产领用M材料的实际成本为（ ）元。",
+          "options": [
+            { "key": "A", "text": "118800" },
+            { "key": "B", "text": "124800" },
+            { "key": "C", "text": "120000" },
+            { "key": "D", "text": "121200" }
+          ],
+          "answer": ["A"],
+          "analysis": "本月材料成本差异率 = （月初结存材料的成本差异 + 本月验收入库材料的成本差异） ÷ （月初结存材料的计划成本 + 本月验收入库材料的计划成本） ×100% = (3000 - 5000) ÷ (40000 + 160000)×100% = -1%，甲公司生产领用M材料的实际成本 = 120000×(1 - 1%) = 118800（元）。",
+          "tags": ["发出材料（采用计划成本核算）"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q003",
+          "question_no": "3",
+          "type": "single_choice",
+          "stem": "下列各项关于借贷记账法下损益类账户的表述中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "借方登记收入增加" },
+            { "key": "B", "text": "借方登记费用减少" },
+            { "key": "C", "text": "贷方登记收入减少" },
+            { "key": "D", "text": "期末结转后无余额" }
+          ],
+          "answer": ["D"],
+          "analysis": "选项A，借方登记收入减少；选项B，借方登记费用增加；选项C，贷方登记收入增加。",
+          "tags": ["损益类账户的结构"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q004",
+          "question_no": "4",
+          "type": "single_choice",
+          "stem": "2×23年1月31日，甲公司“应付利息”科目贷方余额为20万元，“应付股利”科目贷方余额为8万元，“其他应付款”科目贷方余额为30万元，不考虑其他因素，2×23年1月31日，甲公司资产负债表中“其他应付款”项目的期末余额为（ ）万元。",
+          "options": [
+            { "key": "A", "text": "38" },
+            { "key": "B", "text": "58" },
+            { "key": "C", "text": "50" },
+            { "key": "D", "text": "30" }
+          ],
+          "answer": ["B"],
+          "analysis": "“其他应付款”项目，应根据“应付利息”“应付股利”“其他应付款”科目的期末余额合计数填列，2×23年1月31日，甲公司资产负债表中“其他应付款”项目的期末余额 = 20 + 8 + 30 = 58（万元）。",
+          "tags": ["负债项目的填列说明"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q005",
+          "question_no": "5",
+          "type": "single_choice",
+          "stem": "2×23年9月30日，甲公司银行存款日记账的余额为485万元，银行转来对账单的余额为500万元，经逐笔核对，发现两笔未达账项：公司已开出转账支票并登记银行存款减少20万元，银行尚未记账，银行扣除利息并登记公司银行存款减少5万元，公司未收到银行付款通知，不考虑其他因素，2×23年9月30日，甲公司银行存款余额调节表中调节后的银行存款余额为（ ）万元。",
+          "options": [
+            { "key": "A", "text": "495" },
+            { "key": "B", "text": "480" },
+            { "key": "C", "text": "505" },
+            { "key": "D", "text": "520" }
+          ],
+          "answer": ["B"],
+          "analysis": "2×23年9月30日，甲公司银行存款余额调节表中调节后的银行存款余额 = 485 - 5（或 500 - 20) = 480（万元）。",
+          "tags": ["银行存款的清查"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q006",
+          "question_no": "6",
+          "type": "single_choice",
+          "stem": "下列各项中，反映企业在某一特定日期所拥有或控制的经济资源的财务报表是（ ）。",
+          "options": [
+            { "key": "A", "text": "所有者权益变动表" },
+            { "key": "B", "text": "资产负债表" },
+            { "key": "C", "text": "现金流量表" },
+            { "key": "D", "text": "利润表" }
+          ],
+          "answer": ["B"],
+          "analysis": "资产负债表是反映企业在某一特定日期的财务状况的报表，是对企业特定日期的资产、负债和所有者权益的结构性表述。它反映企业在某一特定日期所拥有或控制的经济资源、所承担的现时义务和所有者对净资产的要求权。",
+          "tags": ["资产负债表的概念"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q007",
+          "question_no": "7",
+          "type": "single_choice",
+          "stem": "2×23年3月1日，甲公司向乙公司销售一批产品，开具的增值税专用发票上注明的价款为500万元，增值税税额为65万元，符合收入确认条件，另代乙公司垫付运费价税合计5万元，乙公司承诺两个月内支付上述款项。不考虑其他因素，甲公司销售该批产品计入应收账款的金额为（ ）万元。",
+          "options": [
+            { "key": "A", "text": "505" },
+            { "key": "B", "text": "500" },
+            { "key": "C", "text": "570" },
+            { "key": "D", "text": "565" }
+          ],
+          "answer": ["C"],
+          "analysis": "甲公司销售该批产品计入应收账款的金额 = 500 + 65 + 5 = 570（万元）。",
+          "tags": ["应收账款"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q008",
+          "question_no": "8",
+          "type": "single_choice",
+          "stem": "下列各项中，属于企业现金流量表中筹资活动产生的现金流量内容的是（ ）。",
+          "options": [
+            { "key": "A", "text": "偿付借款利息支付的现金" },
+            { "key": "B", "text": "处置固定资产收回的现金净额" },
+            { "key": "C", "text": "取得投资收益收到的现金" },
+            { "key": "D", "text": "提供劳务收到的现金" }
+          ],
+          "answer": ["A"],
+          "analysis": "选项A，属于筹资活动产生的现金流量；选项BC，属于投资活动产生的现金流量；选项D，属于经营活动产生的现金流量。",
+          "tags": ["现金流量表的结构"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q009",
+          "question_no": "9",
+          "type": "single_choice",
+          "stem": "下列各项中，账结法下企业在会计期末应将损益类科目的余额转入“本年利润”科目贷方的是（ ）。",
+          "options": [
+            { "key": "A", "text": "营业外收入" },
+            { "key": "B", "text": "税金及附加" },
+            { "key": "C", "text": "营业外支出" },
+            { "key": "D", "text": "资产处置损益" }
+          ],
+          "answer": ["A"],
+          "analysis": "会计期末，企业应将“主营业务收入”“其他业务收入”“其他收益”“营业外收入”等科目的余额分别转入“本年利润”科目的贷方。",
+          "tags": ["结转本年利润的会计处理"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q010",
+          "question_no": "10",
+          "type": "single_choice",
+          "stem": "下列各项中，企业因无力支付已到期银行承兑汇票而转销应付票据时，应贷记的会计科目是（ ）。",
+          "options": [
+            { "key": "A", "text": "其他应付款" },
+            { "key": "B", "text": "应付账款" },
+            { "key": "C", "text": "合同负债" },
+            { "key": "D", "text": "短期借款" }
+          ],
+          "answer": ["D"],
+          "analysis": "应付银行承兑汇票到期，如企业无力支付票款，则由承兑银行代为支付并作为付款企业的贷款处理，企业应将应付票据的账面余额转作短期借款，借记“应付票据”科目，贷记“短期借款”科目。",
+          "tags": ["转销应付票据"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q011",
+          "question_no": "11",
+          "type": "single_choice",
+          "stem": "下列各项中，属于政府财务会计要素的是（ ）。",
+          "options": [
+            { "key": "A", "text": "预算收入" },
+            { "key": "B", "text": "预算支出" },
+            { "key": "C", "text": "预算结余" },
+            { "key": "D", "text": "费用" }
+          ],
+          "answer": ["D"],
+          "analysis": "政府财务会计要素包括资产、负债、净资产、收入和费用。选项ABC属于预算会计要素。",
+          "tags": ["政府财务会计要素"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q012",
+          "question_no": "12",
+          "type": "single_choice",
+          "stem": "下列各项关于企业发出存货计价方法的表述中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "采用先进先出法，在物价持续上升时，会低估企业当期利润" },
+            { "key": "B", "text": "采用先进先出法，在物价持续下降时，会高估企业期末存货成本" },
+            { "key": "C", "text": "采用月末一次加权平均法，可以随时结转企业发出存货成本" },
+            { "key": "D", "text": "采用移动加权平均法，企业可以及时了解存货的结存情况" }
+          ],
+          "answer": ["D"],
+          "analysis": "选项AB错误，采用先进先出法，在物价持续上升时，期末存货成本接近于市价，而发出成本偏低，会高估企业当期利润和库存存货价值，反之，在物价持续下降时，会低估企业存货价值和当期利润；选项C错误，月末一次加权平均法在月末一次计算加权平均单价和发出存货成本，不便于存货成本的日常管理与控制。",
+          "tags": ["先进先出法", "月末一次加权平均法", "移动加权平均法"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q013",
+          "question_no": "13",
+          "type": "single_choice",
+          "stem": "下列各项中，导致企业资产总额增加的是（ ）。",
+          "options": [
+            { "key": "A", "text": "从银行取得短期借款" },
+            { "key": "B", "text": "从银行提取现金" },
+            { "key": "C", "text": "以现金支付职工工资" },
+            { "key": "D", "text": "资本公积转增资本" }
+          ],
+          "answer": ["A"],
+          "analysis": "本题相关账务处理如下：选项A：借：银行存款，贷：短期借款（资产增加，负债增加，资产总额增加）。选项B：借：库存现金，贷：银行存款（资产内部一增一减，资产总额不变）。选项C：借：营业外支出，贷：库存现金（资产减少，所有者权益减少）。选项D：借：资本公积，贷：实收资本（所有者权益内部一增一减，资产总额不变）。",
+          "tags": ["取得短期借款", "银行存款的账务处理", "营业外支出的核算范围", "资本公积转增资本的核算"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q014",
+          "question_no": "14",
+          "type": "single_choice",
+          "stem": "2×23年1月1日，甲公司与客户签订合同为其建造仓库，合同中约定的价款为20万元，3个月内完工。合同约定若甲公司提前1个月完工，客户将额外奖励2万元，甲公司预估提前1个月完工的概率为96%。不考虑其他因素，甲公司预计有权收取的对价为（ ）万元。",
+          "options": [
+            { "key": "A", "text": "20" },
+            { "key": "B", "text": "22" },
+            { "key": "C", "text": "2" },
+            { "key": "D", "text": "21.92" }
+          ],
+          "answer": ["B"],
+          "analysis": "甲公司预计有权收取的对价 = 20 + 2 = 22（万元）。",
+          "tags": ["确定交易价格"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q015",
+          "question_no": "15",
+          "type": "single_choice",
+          "stem": "2×22年12月1日，甲公司购入一台不需要安装的生产设备，成本为93万元，预计使用年限为5年，预计净残值为3万元，采用年数总和法计提折旧。不考虑其他因素，甲公司2×23年计提该生产设备的折旧额为（ ）万元。",
+          "options": [
+            { "key": "A", "text": "31" },
+            { "key": "B", "text": "18" },
+            { "key": "C", "text": "29.5" },
+            { "key": "D", "text": "30" }
+          ],
+          "answer": ["D"],
+          "analysis": "甲公司2×23年计提该生产设备的折旧额 = (93 - 3) × 5 / 15 = 30（万元）。",
+          "tags": ["年数总和法"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q016",
+          "question_no": "16",
+          "type": "single_choice",
+          "stem": "下列各项中，确定会计核算空间范围所依据的会计基本假设是（ ）。",
+          "options": [
+            { "key": "A", "text": "会计分期" },
+            { "key": "B", "text": "会计主体" },
+            { "key": "C", "text": "货币计量" },
+            { "key": "D", "text": "持续经营" }
+          ],
+          "answer": ["B"],
+          "analysis": "会计主体，是指会计工作服务的特定对象，是企业会计确认、计量、记录和报告的空间范围。",
+          "tags": ["会计主体"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q017",
+          "question_no": "17",
+          "type": "single_choice",
+          "stem": "2×23年12月1日，甲公司与乙公司签订一份为期3个月的劳务合同，合同价款为120万元，增值税税额为10.8万元，当日收到乙公司预付合同款50万元。2×23年12月31日，该劳务合同的履约进度为40%，符合按履约进度确认收入的条件。不考虑其他因素，甲公司2×23年12月应确认的劳务收入为（ ）万元。",
+          "options": [
+            { "key": "A", "text": "48" },
+            { "key": "B", "text": "50" },
+            { "key": "C", "text": "72" },
+            { "key": "D", "text": "20" }
+          ],
+          "answer": ["A"],
+          "analysis": "甲公司2×23年12月应确认的劳务收入 = 120 × 40% = 48（万元），选项A正确。",
+          "tags": ["在某一时段内履行的履约义务"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q018",
+          "question_no": "18",
+          "type": "single_choice",
+          "stem": "甲公司采用在产品按定额成本计价法将生产费用在完工产品和在产品之间进行分配。2×23年1月1日甲公司基本生产车间在产品定额成本为28万元，1月发生生产费用总额132万元，1月31日，在产品定额成本为30万元。不考虑其他因素，甲公司2×23年1月完工产品成本为（ ）万元。",
+          "options": [
+            { "key": "A", "text": "130" },
+            { "key": "B", "text": "160" },
+            { "key": "C", "text": "132" },
+            { "key": "D", "text": "102" }
+          ],
+          "answer": ["A"],
+          "analysis": "完工产品总成本 = （月初在产品成本 + 本月发生生产成本） - 月末在产品成本 = （28+132）- 30=130（万元），选项A正确。",
+          "tags": ["在产品按定额成本计价法"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q019",
+          "question_no": "19",
+          "type": "single_choice",
+          "stem": "2×23年6月，甲公司结转销售商品成本10万元，销售原材料成本2万元，结转报废固定资产净损失3万元。不考虑其他因素，甲公司2×23年6月利润表中“营业成本”项目的本期金额为（ ）万元。",
+          "options": [
+            { "key": "A", "text": "12" },
+            { "key": "B", "text": "10" },
+            { "key": "C", "text": "15" },
+            { "key": "D", "text": "13" }
+          ],
+          "answer": ["A"],
+          "analysis": "“营业成本”项目应根据“主营业务成本”和“其他业务成本”科目的发生额分析填列，因此“营业成本”项目的本期金额 = 10 + 2 = 12（万元）。结转报废固定资产净损失，相关账务处理为：借：营业外支出 3，贷：固定资产清理 3。",
+          "tags": ["利润表的填列方法"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q020",
+          "question_no": "20",
+          "type": "single_choice",
+          "stem": "下列各项中，企业销售商品，产品已经发出但不满足收入确认条件时，结转发出商品的实际成本应借记的会计科目是（ ）。",
+          "options": [
+            { "key": "A", "text": "在途物资" },
+            { "key": "B", "text": "发出商品" },
+            { "key": "C", "text": "库存商品" },
+            { "key": "D", "text": "主营业务成本" }
+          ],
+          "answer": ["B"],
+          "analysis": "已发出的产品不满足收入确认条件时，应将发出商品的成本记入“发出商品”科目，借记“发出商品”科目，贷记“库存商品”科目，选项B正确。",
+          "tags": ["在某一时点履行的履约义务"],
+          "difficulty": "易",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "section_id": "multiple_choice",
+      "section_name": "多项选择题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q021",
+          "question_no": "1",
+          "type": "multiple_choice",
+          "stem": "甲公司为增值税一般纳税人，委托外单位加工非金银首饰应税消费品，收回产品后直接对外销售。下列各项中，甲公司应计入委托加工物资成本的有（ ）。",
+          "options": [
+            { "key": "A", "text": "支付的加工费" },
+            { "key": "B", "text": "加工产品耗用物资的实际成本" },
+            { "key": "C", "text": "由受托方代收代缴的消费税" },
+            { "key": "D", "text": "支付加工费取得增值税专用发票上注明的增值税税额" }
+          ],
+          "answer": ["A", "B", "C"],
+          "analysis": "企业委托外单位加工物资的成本包括加工中实际耗用物资的成本（选项B正确）、支付的加工费用（选项A正确）及应负担的运杂费、支付的税费等。需要交纳消费税的委托加工物资，由受托方代收代缴的消费税，加工收回后用于直接销售的，按规定计税时不准予扣除，计入委托加工物资的成本（选项C正确）。选项D属于可抵扣的增值税进项税额，不计入委托加工物资的成本。",
+          "tags": ["委托加工物资的概念", "加工完成验收入库（委托加工物资）"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q022",
+          "question_no": "2",
+          "type": "multiple_choice",
+          "stem": "2×23年8月1日，甲公司收到客户因质量问题要求退回的一批商品，该批商品上月已全额确认销售收入，售价为40万元，增值税税额为5.2万元，成本为30万元。当日，甲公司支付了退货款并开具红字增值税专用发票。不考虑其他因素，下列各项关于甲公司该项商品退回会计处理的表述中，正确的有（ ）。",
+          "options": [
+            { "key": "A", "text": "贷记“应交税费——应交增值税（销项税额）”科目5.2万元" },
+            { "key": "B", "text": "贷记“主营业务成本”科目30万元" },
+            { "key": "C", "text": "借记“主营业务收入”科目40万元" },
+            { "key": "D", "text": "借记“库存商品”科目30万元" }
+          ],
+          "answer": ["B", "C", "D"],
+          "analysis": "发生销售退回，相关账务处理为：借：主营业务收入 40，应交税费——应交增值税（销项税额）5.2，贷：银行存款 45.2。借：库存商品 30，贷：主营业务成本 30。",
+          "tags": ["主营业务成本及其账务处理"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q023",
+          "question_no": "3",
+          "type": "multiple_choice",
+          "stem": "下列各项中，企业通过“其他应收款”科目核算的有（ ）。",
+          "options": [
+            { "key": "A", "text": "应由出纳人员赔偿的现金短缺" },
+            { "key": "B", "text": "应收的出租包装物租金" },
+            { "key": "C", "text": "租入包装物支付的押金" },
+            { "key": "D", "text": "应收取被投资单位宣告发放的现金股利" }
+          ],
+          "answer": ["A", "B", "C"],
+          "analysis": "其他应收款的内容主要包括：（1）应收的各种赔款、罚款（选项A正确）；（2）应收的出租包装物租金（选项B正确）；（3）应向职工收取的各种垫付款项，如为职工垫付的水电费、应由职工负担的医药费、房租费等；（4）存出保证金，如租入包装物支付的押金（选项C正确）；（5）其他各种应收、暂付款项，如职工出差从企业预借的差旅费。选项D错误，应收取被投资单位宣告发放的现金股利应记入“应收股利”科目。",
+          "tags": ["其他应收款"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q024",
+          "question_no": "4",
+          "type": "multiple_choice",
+          "stem": "下列各项中，企业应编制付款凭证的有（ ）。",
+          "options": [
+            { "key": "A", "text": "将盘亏原材料损失计入当期损益" },
+            { "key": "B", "text": "以银行存款偿还短期借款" },
+            { "key": "C", "text": "以现金购买办公用品" },
+            { "key": "D", "text": "收到投资者交来资金并存入银行" }
+          ],
+          "answer": ["B", "C"],
+          "analysis": "选项A，应编制转账凭证；选项D，应编制收款凭证。",
+          "tags": ["记账凭证的种类"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q025",
+          "question_no": "5",
+          "type": "multiple_choice",
+          "stem": "下列各项中，企业应计入固定资产成本的有（ ）。",
+          "options": [
+            { "key": "A", "text": "自建厂房耗用的工程物资" },
+            { "key": "B", "text": "自建厂房支付的工程人员薪酬" },
+            { "key": "C", "text": "购入设备支付的购买价款" },
+            { "key": "D", "text": "购入设备过程中应由企业负担的不含增值税的运输费" }
+          ],
+          "answer": ["A", "B", "C", "D"],
+          "analysis": "以上选项均应计入固定资产成本。",
+          "tags": ["外购固定资产", "自营工程"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q026",
+          "question_no": "6",
+          "type": "multiple_choice",
+          "stem": "下列各项中，企业应通过“税金及附加”科目核算的有（ ）。",
+          "options": [
+            { "key": "A", "text": "对外销售产品应交增值税" },
+            { "key": "B", "text": "持有房产应交的房产税" },
+            { "key": "C", "text": "使用土地应交的城镇土地使用税" },
+            { "key": "D", "text": "对外销售产品应交的资源税" }
+          ],
+          "answer": ["B", "C", "D"],
+          "analysis": "选项A错误，增值税是价外税，不通过“税金及附加”科目核算。",
+          "tags": ["税金及附加"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q027",
+          "question_no": "7",
+          "type": "multiple_choice",
+          "stem": "下列各项中，企业应在资产负债表中“应付账款”项目列报的有（ ）。",
+          "options": [
+            { "key": "A", "text": "“预收账款”科目所属明细科目的期末贷方余额" },
+            { "key": "B", "text": "“应收账款”科目所属明细科目的期末贷方余额" },
+            { "key": "C", "text": "“应付账款”科目所属明细科目的期末贷方余额" },
+            { "key": "D", "text": "“预付账款”科目所属明细科目的期末贷方余额" }
+          ],
+          "answer": ["C", "D"],
+          "analysis": "“应付账款”项目，应根据“应付账款”和“预付账款”科目所属的相关明细科目的期末贷方余额合计数填列。",
+          "tags": ["负债项目的填列说明"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q028",
+          "question_no": "8",
+          "type": "multiple_choice",
+          "stem": "下列各项中，关于企业会计计量属性的表述中，正确的有（ ）。",
+          "options": [
+            { "key": "A", "text": "负债的历史成本可以按照承担现时义务而实际收到的款项进行计量" },
+            { "key": "B", "text": "资产的历史成本可以按照购置时所付出对价的公允价值计量" },
+            { "key": "C", "text": "现值考虑了货币时间价值因素" },
+            { "key": "D", "text": "资产的现值应按照在当前市场条件下重新取得同样一项资产所需支付的金额确定" }
+          ],
+          "answer": ["A", "B", "C"],
+          "analysis": "采用重置成本计量时，资产按照现在购买相同或者相似资产所需支付的现金或者现金等价物的金额计量。",
+          "tags": ["重置成本", "历史成本", "现值"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q029",
+          "question_no": "9",
+          "type": "multiple_choice",
+          "stem": "甲公司为增值税一般纳税人，采购一批原材料取得的增值税专用发票上注明的价款为100万元，增值税税额为13万元，另发生入库前的挑选整理费2万元和装卸费1万元，材料已验收入库。下列各项中，甲公司应记入该批原材料成本的有（ ）。",
+          "options": [
+            { "key": "A", "text": "增值税税额13万元" },
+            { "key": "B", "text": "装卸费1万元" },
+            { "key": "C", "text": "购买价款100万元" },
+            { "key": "D", "text": "挑选整理费2万元" }
+          ],
+          "answer": ["B", "C", "D"],
+          "analysis": "甲公司属于增值税一般纳税人，增值税专用发票上注明的增值税进项税额可以抵扣，不计入原材料成本。",
+          "tags": ["存货的初始计量"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q030",
+          "question_no": "10",
+          "type": "multiple_choice",
+          "stem": "下列各项中，关于企业因台风造成原材料毁损会计处理的表述中，正确的有（ ）。",
+          "options": [
+            { "key": "A", "text": "入库的残料价值记入“原材料”科目" },
+            { "key": "B", "text": "应收保险公司理赔款记入“其他应收款”科目" },
+            { "key": "C", "text": "原材料毁损净损失记入“管理费用”科目" },
+            { "key": "D", "text": "原材料毁损净损失记入“营业外支出”科目" }
+          ],
+          "answer": ["A", "B", "D"],
+          "analysis": "因台风造成的原材料毁损，毁损净损失应计入营业外支出，选项C错误。",
+          "tags": ["存货盘亏及毁损的账务处理"],
+          "difficulty": "易",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "section_id": "true_false",
+      "section_name": "判断题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q031",
+          "question_no": "1",
+          "type": "true_false",
+          "stem": "企业采用逐步结转分步法可以提供各个生产步骤的半产品成本资料。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "企业采用逐步结转分步法可以提供各个生产步骤的半产品成本资料。",
+          "tags": ["逐步结转分步法"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q032",
+          "question_no": "2",
+          "type": "true_false",
+          "stem": "企业对租入的租赁期为10年的办公楼进行装修，发生的装修支出100万元，应直接计入固定资产。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "该装修支出应计入长期待摊费用。长期待摊费用是指企业已经发生但应由本期和以后各期负担的分摊期限在1年以上的各项费用，如以租赁方式租入的使用权资产发生的改良支出等。",
+          "tags": ["长期待摊费用"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q033",
+          "question_no": "3",
+          "type": "true_false",
+          "stem": "制造业企业生产部门直接用于生产的燃料和动力费用，应计入产品生产成本。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "制造业企业生产部门直接用于生产的燃料和动力费用，应计入产品生产成本。",
+          "tags": ["材料、燃料、动力费用的归集和分配"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q034",
+          "question_no": "4",
+          "type": "true_false",
+          "stem": "企业的长期借款利息费用应在资产负债表日按照实际利率法计算确定，实际利率与合同利率差异较小，可以采用合同利率计算。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "企业的长期借款利息费用应在资产负债表日按照实际利率法计算确定，实际利率与合同利率差异较小，可以采用合同利率计算。",
+          "tags": ["发生长期借款利息"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q035",
+          "question_no": "5",
+          "type": "true_false",
+          "stem": "根据权责发生制，企业在本月支付下月的办公楼租金，应在本月确认为费用。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "根据权责发生制，企业在本月支付下月的办公楼租金，应在下月确认为费用。",
+          "tags": ["权责发生制"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q036",
+          "question_no": "6",
+          "type": "true_false",
+          "stem": "企业对可能发生的固定资产减值损失计提资产减值准备，体现了会计信息质量的谨慎性要求。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "企业对可能发生的固定资产减值损失计提资产减值准备，体现了会计信息质量的谨慎性要求。",
+          "tags": ["谨慎性"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q037",
+          "question_no": "7",
+          "type": "true_false",
+          "stem": "政府会计应实现预算会计和财务会计的双重功能。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "政府会计应实现预算会计和财务会计的双重功能。",
+          "tags": ["预算会计与财务会计适度分离"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q038",
+          "question_no": "8",
+          "type": "true_false",
+          "stem": "企业取得交易性金融资产支付价款中包含的已宣告但尚未发放的现金股利应计入交易性金融资产的成本。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "企业取得交易性金融资产支付价款中包含的已宣告但尚未发放的现金股利应计入应收股利。",
+          "tags": ["取得交易性金融资产"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q039",
+          "question_no": "9",
+          "type": "true_false",
+          "stem": "企业应加强会计人员职业道德建设，要求会计人员坚持诚信、守法奉公，坚持准则、守责敬业，坚持学习、守正创新。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "企业应加强会计人员职业道德建设，要求会计人员坚持诚信、守法奉公，坚持准则、守责敬业，坚持学习、守正创新。",
+          "tags": ["建立健全会计职业联合惩戒机制"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q040",
+          "question_no": "10",
+          "type": "true_false",
+          "stem": "企业在确认收入的同时应将为履行合同发生的各种成本确认为合同取得成本。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "企业在确认收入的同时应将为履行合同发生的各种成本确认为合同履约成本。",
+          "tags": ["合同履约成本"],
+          "difficulty": "易",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "section_id": "indefinite_choice",
+      "section_name": "不定项选择题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q041",
+          "question_no": "（一）",
+          "type": "indefinite_choice",
+          "stem": "甲公司为增值税一般纳税人，销售商品适用的增值税税率为13%。2×22年和2×23年甲公司发生与固定资产相关的交易和事项如下：（1）2×22年3月5日，购入一台不需安装的M设备，取得的增值税专用发票上注明的价款为832万元，增值税税额为108.16万元，另支付运输费取得的增值税专用发票上注明的价款为8万元，增值税税额为0.72万元，款项均以银行存款支付。3月20日，M设备交付专设销售机构使用，预计使用年限为5年，预计净残值为0，采用年限平均法计提折旧。（2）2×23年3月5日，对M设备升级改造，领用本公司生产的一批库存商品，成本为100万元，公允价值为120万元，发生升级改造工人薪酬92万元。改造发生的支出均符合资本化条件。5月5日，该设备改造完工并达到预定可使用状态，预计剩余使用年限为6年，预计净残值为0，仍使用年限平均法计提折旧。（3）2×23年12月31日，M设备的账面价值为780万元，由于存在可能发生减值的迹象，经计算可收回金额为730万元。要求：根据上述资料，不考虑其他因素，分析回答下列小题。",
+          "options": [],
+          "sub_questions": [
+            {
+              "sub_no": "1",
+              "question": "根据资料（1），甲公司购入M设备的入账成本是（ ）万元。",
+              "options": [
+                { "key": "A", "text": "948.88" },
+                { "key": "B", "text": "832" },
+                { "key": "C", "text": "840" },
+                { "key": "D", "text": "948.16" }
+              ],
+              "answer": ["C"],
+              "analysis": "甲公司购入M设备的入账成本 = 832 + 8 = 840（万元）。"
+            },
+            {
+              "sub_no": "2",
+              "question": "根据资料（1），下列各项关于甲公司2×22年对M设备计提折旧的表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "计提的折旧额计入管理费用" },
+                { "key": "B", "text": "年折旧率为20%" },
+                { "key": "C", "text": "3月份不计提折旧" },
+                { "key": "D", "text": "每月计提的折旧额为14万元" }
+              ],
+              "answer": ["B", "C", "D"],
+              "analysis": "M设备交付销售机构使用，计提的折旧额计入销售费用，选项A错误；M设备的年折旧率 = 1/5×100% = 20%，选项B正确；固定资产当月购入，次月开始计提折旧，选项C正确；每月计提折旧额 = 840÷5÷12 = 14（万元），选项D正确。"
+            },
+            {
+              "sub_no": "3",
+              "question": "根据资料（1）和（2），下列各项关于甲公司M设备升级改造的会计处理中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "改造完工：借：固定资产 864 贷：在建工程 864" },
+                { "key": "B", "text": "转入在建工程：借：在建工程 672 累计折旧 168 贷：固定资产 840" },
+                { "key": "C", "text": "领用库存商品：借：在建工程 135.6 贷：主营业务收入 120 应交税费——应交增值税（销项税额）15.6" },
+                { "key": "D", "text": "发生工人薪酬：借：在建工程 92 贷：应付职工薪酬 92" }
+              ],
+              "answer": ["A", "B", "D"],
+              "analysis": "选项C错误，领用库存商品分录如下：借：在建工程 100，贷：库存商品 100。"
+            },
+            {
+              "sub_no": "4",
+              "question": "根据资料（1）至（3），下列各项关于甲公司M设备计提减值准备会计处理的表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "借记“信用减值损失”科目50万元" },
+                { "key": "B", "text": "贷记“固定资产”科目50万元" },
+                { "key": "C", "text": "贷记“固定资产减值准备”科目50万元" },
+                { "key": "D", "text": "借记“资产减值损失”科目50万元" }
+              ],
+              "answer": ["C", "D"],
+              "analysis": "根据资料（3），固定资产账面价值780万元高于可收回金额730万元，故计提减值50万元，分录如下：借：资产减值损失 50，贷：固定资产减值准备 50。"
+            },
+            {
+              "sub_no": "5",
+              "question": "根据资料（1）至（3），2×23年12月31日，甲公司M设备记入资产负债表中“固定资产”项目的期末余额是（ ）万元。",
+              "options": [
+                { "key": "A", "text": "50" },
+                { "key": "B", "text": "730" },
+                { "key": "C", "text": "1510" },
+                { "key": "D", "text": "780" }
+              ],
+              "answer": ["B"],
+              "analysis": "“固定资产”项目应根据“固定资产”科目的期末余额减去“累计折旧”和“固定资产减值准备”科目的期末余额后的金额，以及“固定资产清理”科目的期末余额填列。甲公司M设备记入资产负债表中“固定资产”项目的期末余额 = 780 - 50 = 730（万元）。"
+            }
+          ]
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q042",
+          "question_no": "（二）",
+          "type": "indefinite_choice",
+          "stem": "甲公司为增值税一般纳税人，销售商品增值税税率为13%。2×23年9月30日，“应付职工薪酬”科目贷方余额为800万元。2×23年10月，甲公司发生与职工薪酬相关的交易或事项如下：（1）根据“工资费用分配表”结算上月应付职工薪酬，其中公司代垫职工房租7万元，代扣职工个人所得税8万元，代扣个人负担社会保险费16万元和住房公积金88万元，以银行存款支付工资681万元。（2）为产品生产工人发放一批自产产品作为国庆福利，该批产品成本为30万元，市场不含税售价为50万元。（3）计提本月应付职工工资为800万元（不含非货币性福利），“工资费用分配汇总表”中列示的产品生产工人工资为600万元，车间管理人员工资为50万元，行政管理人员工资为150万元。甲公司规定，分别按照职工工资总额的12%和11%计提应由公司负担的社会保险费（不含基本养老保险和失业保险）96万元和住房公积金88万元。要求：根据上述资料，不考虑其他因素，分析回答下列小题。",
+          "options": [],
+          "sub_questions": [
+            {
+              "sub_no": "1",
+              "question": "根据资料（1），下列各项关于甲公司结算并支付上月职工薪酬会计处理的表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "借记“应付职工薪酬——工资”科目800万元" },
+                { "key": "B", "text": "贷记“其他应付款”科目104万元" },
+                { "key": "C", "text": "贷记“应交税费——应交个人所得税”科目8万元" },
+                { "key": "D", "text": "贷记“银行存款”科目681万元" }
+              ],
+              "answer": ["A", "B", "C", "D"],
+              "analysis": "账务处理如下：借：应付职工薪酬——工资 800，贷：其他应收款——职工房租 7，应交税费——应交个人所得税 8，其他应付款——社会保险费 16——住房公积金 88，银行存款 681。"
+            },
+            {
+              "sub_no": "2",
+              "question": "根据资料（2），下列各项关于甲公司为生产工人提供非货币性福利的会计处理的表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "确认收入：借：应付职工薪酬——非货币性福利 56.5 贷：主营业务收入 50 应交税费——应交增值税（销项税额）6.5" },
+                { "key": "B", "text": "确认非货币性福利：借：生产成本 56.5 贷：应付职工薪酬——非货币性福利 56.5" },
+                { "key": "C", "text": "结转成本：借：主营业务成本 30 贷：库存商品 30" },
+                { "key": "D", "text": "发放非货币性福利：借：应付职工薪酬——非货币性福利 36.5 贷：库存商品 30 应交税费——应交增值税（销项税额）6.5" }
+              ],
+              "answer": ["A", "B", "C"],
+              "analysis": "企业以自产产品作为非货币性福利发放给职工的，应当按照该产品的公允价值和相关税费，计量应计入成本费用的职工薪酬金额，并确认为主营业务收入，其销售成本的结转和相关税费的处理，与正常商品销售相同。"
+            },
+            {
+              "sub_no": "3",
+              "question": "根据资料（3），下列各项关于甲公司分配本月职工薪酬的会计处理的表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "贷记“应付职工薪酬”科目984万元" },
+                { "key": "B", "text": "借记“生产成本”科目738万元" },
+                { "key": "C", "text": "借记“管理费用”科目200万元" },
+                { "key": "D", "text": "借记“制造费用”科目61.5万元" }
+              ],
+              "answer": ["A", "B", "D"],
+              "analysis": "账务处理如下：借：生产成本 738，制造费用 61.5，管理费用 184.5，贷：应付职工薪酬——工资 800——社会保险费 96——住房公积金 88。"
+            },
+            {
+              "sub_no": "4",
+              "question": "根据资料（2）和（3），甲公司本月计入产品成本的金额为（ ）万元。",
+              "options": [
+                { "key": "A", "text": "856" },
+                { "key": "B", "text": "799.5" },
+                { "key": "C", "text": "738" },
+                { "key": "D", "text": "794.5" }
+              ],
+              "answer": ["A"],
+              "analysis": "甲公司本月计入产品成本的金额 = 56.5（资料2） + 738（资料3） + 61.5（资料3） = 856（万元）。"
+            },
+            {
+              "sub_no": "5",
+              "question": "根据资料（1）至（3），下列各项关于甲公司2×23年10月利润表项目影响金额的表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "营业收入增加50万元" },
+                { "key": "B", "text": "管理费用增加184.5万元" },
+                { "key": "C", "text": "营业成本增加30万元" },
+                { "key": "D", "text": "利润总额减少226万元" }
+              ],
+              "answer": ["A", "B", "C"],
+              "analysis": "选项D错误，利润总额 = 50（资料2主营业务收入） - 30（资料2主营业务成本） - 184.5（资料3管理费用） = - 164.5（万元），“- ”表示减少。"
+            }
+          ]
+        },
+        {
+          "question_uid": "assistant_accountant.primary_accounting_practice.2024_set1.q043",
+          "question_no": "（三）",
+          "type": "indefinite_choice",
+          "stem": "甲公司为增值税一般纳税人，原材料采用实际成本核算。发出材料成本以先进先出法计价。2×23年5月31日，甲公司资产负债表中“存货”项目期末余额为90000元，其中库存M材料200千克，总成本为25000元。甲公司2×23年6月发生与存货相关的交易或事项如下：（1）1日，采购1300千克M材料，取得的增值税专用发票上注明的价款为150000元，增值税税额为19500元，款项以银行汇票支付，该批材料验收入库时发现短缺50千克，确认为运输途中发生的合理损耗。（2）5日，生产车间生产产品领用M材料600千克，车间管理部门领用M材料20千克。（3）20日，生产车间领用作为产品组成部分的包装物1200个，总成本3000元；销售部门领用随同商品出售不单独计价的包装物500个，总成本1000元。（4）30日，本月投入生产的产品均未完工。要求：根据上述资料，不考虑其他因素，分析回答下列小题。",
+          "options": [],
+          "sub_questions": [
+            {
+              "sub_no": "1",
+              "question": "根据资料（1），下列各项关于甲公司采购M材料的会计处理的表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "贷记“其他货币资金”科目169500元" },
+                { "key": "B", "text": "贷记“银行存款”科目169500元" },
+                { "key": "C", "text": "借记“应交税费——应交增值税（进项税额）”科目19500元" },
+                { "key": "D", "text": "借记“材料采购”科目150000元" }
+              ],
+              "answer": ["A", "C"],
+              "analysis": "采购M材料的分录如下：借：原材料 150000，应交税费——应交增值税（进项税额）19500，贷：其他货币资金 169500。"
+            },
+            {
+              "sub_no": "2",
+              "question": "根据资料（1），甲公司入库M材料的单位成本是（ ）元。",
+              "options": [
+                { "key": "A", "text": "130.38" },
+                { "key": "B", "text": "115.38" },
+                { "key": "C", "text": "120" },
+                { "key": "D", "text": "135.6" }
+              ],
+              "answer": ["C"],
+              "analysis": "入库M材料的单位成本 = 150000÷(1300 - 50) = 120（元）。"
+            },
+            {
+              "sub_no": "3",
+              "question": "根据期初资料、资料（1）和（2），甲公司2×23年6月发出M材料的总成本是（ ）元。",
+              "options": [
+                { "key": "A", "text": "75400" },
+                { "key": "B", "text": "73459.6" },
+                { "key": "C", "text": "81592" },
+                { "key": "D", "text": "79759.6" }
+              ],
+              "answer": ["A"],
+              "analysis": "6月发出M材料的总成本 = 25000 + 120×(600 - 200 + 20) = 75400（元）。"
+            },
+            {
+              "sub_no": "4",
+              "question": "根据资料（2）和（3），下列各项中，甲公司应直接记入“生产成本”科目的是（ ）。",
+              "options": [
+                { "key": "A", "text": "销售部门领用随同商品出售不单独计价的包装物成本" },
+                { "key": "B", "text": "生产车间生产产品领用的M材料成本" },
+                { "key": "C", "text": "车间管理部门领用的M材料成本" },
+                { "key": "D", "text": "生产车间领用的作为产品组成部分的包装物成本" }
+              ],
+              "answer": ["B", "D"],
+              "analysis": "选项A计入销售费用，选项C计入制造费用。"
+            },
+            {
+              "sub_no": "5",
+              "question": "根据期初资料、资料（1）至（4），2×23年6月，甲公司资产负债表中“存货”项目的期末余额是（ ）元。",
+              "options": [
+                { "key": "A", "text": "157048" },
+                { "key": "B", "text": "163600" },
+                { "key": "C", "text": "239000" },
+                { "key": "D", "text": "149000" }
+              ],
+              "answer": ["C"],
+              "analysis": "资产负债表中“存货”项目的期末余额 = 90000 + 150000 - 1000 = 239000（元）。"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

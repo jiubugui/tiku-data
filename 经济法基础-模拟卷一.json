@@ -1,0 +1,965 @@
+{
+  "schema_version": "2.0",
+  "scope": {
+    "exam_id": "assistant_accountant",
+    "exam_name": "初级会计职称",
+    "subject_id": "primary_economic_law",
+    "subject_name": "经济法基础",
+    "paper_id": "2026_economic_law_mock_set1",
+    "paper_name": "2026年《经济法基础》模拟试题（一）"
+  },
+  "chapter_id": "paper_2026_economic_law_mock_set1",
+  "chapter_name": "经济法基础试题（一）",
+  "sections": [
+    {
+      "section_id": "single_choice",
+      "section_name": "单项选择题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q001",
+          "question_no": "1",
+          "type": "single_choice",
+          "stem": "下列对法律行为所作的分类中，属于按照行为是否需要特定形式或者实质要件进行分类的是（ ）。",
+          "options": [
+            { "key": "A", "text": "积极行为和消极行为" },
+            { "key": "B", "text": "有偿行为和无偿行为" },
+            { "key": "C", "text": "自主行为和代理行为" },
+            { "key": "D", "text": "要式行为和非要式行为" }
+          ],
+          "answer": ["D"],
+          "analysis": "（1）选项A：是根据是否需要主动去做或不去做进行的分类。（2）选项B：是根据是否需要支付对价所作的分类。（3）选项C：是根据主体实际参与行为的状态所作的分类。",
+          "tags": ["法律行为"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q002",
+          "question_no": "2",
+          "type": "single_choice",
+          "stem": "根据会计法律制度的规定，下列主体中，任用会计人员不实行回避制度的是（ ）。",
+          "options": [
+            { "key": "A", "text": "国家机关" },
+            { "key": "B", "text": "国有企业" },
+            { "key": "C", "text": "事业单位" },
+            { "key": "D", "text": "私营企业" }
+          ],
+          "answer": ["D"],
+          "analysis": "国家机关、国有企业、事业单位任用会计人员应当实行回避制度。",
+          "tags": ["会计人员回避制度"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q003",
+          "question_no": "3",
+          "type": "single_choice",
+          "stem": "根据会计法律制度的规定，下列人员不属于会计人员的是（ ）。",
+          "options": [
+            { "key": "A", "text": "总会计师" },
+            { "key": "B", "text": "单位内部审计人员" },
+            { "key": "C", "text": "会计机构负责人" },
+            { "key": "D", "text": "会计机构的会计档案管理人员" }
+          ],
+          "answer": ["B"],
+          "analysis": "选项B：单位内部审计人员不属于单位会计机构的组成人员，其岗位不属于会计岗位。",
+          "tags": ["会计人员"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q004",
+          "question_no": "4",
+          "type": "single_choice",
+          "stem": "下列各项中，属于个人银行结算账户Ⅲ类账户的基本功能的是（ ）。",
+          "options": [
+            { "key": "A", "text": "购买投资理财产品" },
+            { "key": "B", "text": "存取现金" },
+            { "key": "C", "text": "配发实体卡片" },
+            { "key": "D", "text": "限额消费和缴费支付" }
+          ],
+          "answer": ["D"],
+          "analysis": "选项D：个人银行结算账户Ⅲ类账户可以办理限额消费和缴费支付、限额向非绑定账户转出资金。",
+          "tags": ["个人银行结算账户"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q005",
+          "question_no": "5",
+          "type": "single_choice",
+          "stem": "张某、王某分别在P银行、Q银行开立存款账户，张某委托P银行将5000元支付给王某，下列不属于在汇兑凭证上必须记载的是（ ）。",
+          "options": [
+            { "key": "A", "text": "张某的存款账户" },
+            { "key": "B", "text": "张某身份证号" },
+            { "key": "C", "text": "P银行名称" },
+            { "key": "D", "text": "委托日期" }
+          ],
+          "answer": ["B"],
+          "analysis": "签发汇兑凭证必须记载的事项：（1）表明“信汇”或“电汇”的字样；（2）无条件支付的委托；（3）确定的金额；（4）收款人名称（在银行开立存款账户的，必须记载其账号）；（5）汇款人名称（在银行开立存款账户的，必须记载其账号，选项A）；（6）汇入地点、汇入行名称；（7）汇出地点、汇出行名称（选项C）；（8）委托日期（选项D）；（9）汇款人签章。",
+          "tags": ["汇兑"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q006",
+          "question_no": "6",
+          "type": "single_choice",
+          "stem": "根据票据法律制度的规定，支票可以授权补记的是（ ）。",
+          "options": [
+            { "key": "A", "text": "支票的金额" },
+            { "key": "B", "text": "出票日期" },
+            { "key": "C", "text": "付款人名称" },
+            { "key": "D", "text": "出票人名称" }
+          ],
+          "answer": ["A"],
+          "analysis": "支票的金额、收款人名称，可以由出票人授权补记。",
+          "tags": ["支票"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q007",
+          "question_no": "7",
+          "type": "single_choice",
+          "stem": "甲公司向乙公司签发并承兑了一张汇票。乙公司将该汇票背书转让给丙公司，并在汇票上记载“不得转让”字样，丙公司又将该汇票背书转让给丁公司，丁公司在向甲公司提示付款时遭到拒绝。下列关于该汇票当事人权利义务的表述中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "丁公司可以向乙公司行使追索权" },
+            { "key": "B", "text": "甲公司不承担票据责任" },
+            { "key": "C", "text": "丁公司享有票据权利" },
+            { "key": "D", "text": "丁公司不得向丙公司行使追索权" }
+          ],
+          "answer": ["C"],
+          "analysis": "（1）选项AD：背书人在票据上记载“不得转让”字样，其后手再背书转让的，原背书人对后手的被背书人不承担保证责任，只对直接的被背书人承担保证责任；即乙公司对丁公司不承担票据责任，但是丙公司仍应对丁公司承担票据责任，丁公司可对丙公司行使追索权。（2）选项B：付款人承兑汇票后，应当承担到期付款的责任。",
+          "tags": ["票据背书"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q008",
+          "question_no": "8",
+          "type": "single_choice",
+          "stem": "根据增值税法律制度的规定，出租车公司向使用本公司自有出租车的出租车司机收取的管理费用，按照（ ）缴纳增值税。",
+          "options": [
+            { "key": "A", "text": "陆路运输服务" },
+            { "key": "B", "text": "商务辅助服务" },
+            { "key": "C", "text": "物流辅助服务" },
+            { "key": "D", "text": "生活服务" }
+          ],
+          "answer": ["A"],
+          "analysis": "出租车公司向使用本公司自有出租车的出租车司机收取的管理费用，按照陆路运输服务缴纳增值税。",
+          "tags": ["增值税征税范围"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q009",
+          "question_no": "9",
+          "type": "single_choice",
+          "stem": "某建筑公司是增值税一般纳税人，2025年12月提供建筑服务取得含税收入1030万元，该公司将部分工程分包出去支付含税分包款500万元，取得对方开具的增值税发票。已知，该公司提供建筑服务选择简易计税方法计税，增值税征收率为3%。计算该公司增值税应纳税额的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "1030×3%" },
+            { "key": "B", "text": "1030÷(1+3%)×3%" },
+            { "key": "C", "text": "(1030-500)÷(1+3%)×3%" },
+            { "key": "D", "text": "(1030-500)×3%" }
+          ],
+          "answer": ["C"],
+          "analysis": "纳税人提供建筑服务适用简易计税方法的，以取得的与之相关的全部价款扣除支付的分包款后的余额为销售额。已知1030万元、500万元为含税金额，应价税分离。该公司增值税应纳税额=(1030-500)÷(1+3%)×3%=15.44（万元）。",
+          "tags": ["简易计税方法"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q010",
+          "question_no": "10",
+          "type": "single_choice",
+          "stem": "根据消费税法律制度的规定，某化妆品生产企业的下列行为中，不缴纳消费税的是（ ）。",
+          "options": [
+            { "key": "A", "text": "将自产高档香水精用于连续生产高档香水" },
+            { "key": "B", "text": "将自产高档香水精用于连续生产普通护肤品" },
+            { "key": "C", "text": "将自产高档香水用于赠送" },
+            { "key": "D", "text": "将自产高档香水用于职工福利" }
+          ],
+          "answer": ["A"],
+          "analysis": "纳税人自产自用的应税消费品，用于连续生产应税消费品的（选项A），移送时不缴纳消费税；用于其他方面的（选项BCD），于移送使用时缴纳消费税。",
+          "tags": ["消费税征税范围"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q011",
+          "question_no": "11",
+          "type": "single_choice",
+          "stem": "某电池生产企业为增值税一般纳税人，下设一非独立核算的门市部。2025年12月该企业将生产的一批成本价78万元的铅蓄电池移送门市部，门市部将其中60%对外销售，取得含税销售额90万元。已知，铅蓄电池的消费税税率为4%，增值税税率为13%。该企业消费税应纳税额的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "78×4%" },
+            { "key": "B", "text": "78×60%×4%" },
+            { "key": "C", "text": "90×4%" },
+            { "key": "D", "text": "90÷(1+13%)×4%" }
+          ],
+          "answer": ["D"],
+          "analysis": "纳税人通过自设非独立核算门市部销售的自产应税消费品，应当按照门市部对外不含增值税销售额或者销售数量征收消费税。该企业消费税应纳税额=90÷(1+13%)×4%=3.19（万元）。",
+          "tags": ["消费税应纳税额的计算"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q012",
+          "question_no": "12",
+          "type": "single_choice",
+          "stem": "根据城市维护建设税法律制度的规定，下列各项中，应计入城市维护建设税计税依据的是（ ）。",
+          "options": [
+            { "key": "A", "text": "向海关缴纳的进口增值税" },
+            { "key": "B", "text": "向税务机关缴纳的消费税" },
+            { "key": "C", "text": "从税务机关取得的增值税留抵退税" },
+            { "key": "D", "text": "向税务机关缴纳的房产税" }
+          ],
+          "answer": ["B"],
+          "analysis": "（1）选项A：对进口货物或者境外单位和个人向境内销售服务、无形资产缴纳的增值税、消费税税额，不征收城市维护建设税。（2）选项C：城市维护建设税的计税依据应当按照规定扣除期末留抵退税退还的增值税税额。（3）选项D：城市维护建设税以纳税人依法实际缴纳的增值税、消费税税额为计税依据，不包括房产税。",
+          "tags": ["城市维护建设税计税依据"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q013",
+          "question_no": "13",
+          "type": "single_choice",
+          "stem": "某公司于2025年12月进口一批汽车零配件，该批汽车零配件成交价格为200万元、运抵我国关境内输入地点起卸前的运费、保险费合计10万元，另支付购货佣金5万元、支付经纪费8万元。已知，关税税率为10%。该公司应缴纳进口关税的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "200×10%" },
+            { "key": "B", "text": "(200+10)×10%" },
+            { "key": "C", "text": "(200+10+8)×10%" },
+            { "key": "D", "text": "(200+10+5+8)×10%" }
+          ],
+          "answer": ["C"],
+          "analysis": "（1）进口货物的计税价格以成交价格（200万元）以及该货物运抵我国境内输入地点起卸前的运输及相关费用、保险费（10万元）为基础确定。（2）由买方负担的购货佣金以外的佣金和经纪费（8万元），应当计入计税价格。（3）该公司应缴纳进口关税=(200+10+8)×10%=21.8（万元）。",
+          "tags": ["关税应纳税额的计算"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q014",
+          "question_no": "14",
+          "type": "single_choice",
+          "stem": "根据企业所得税法律制度的规定，下列业务中，不属于视同销售货物的是（ ）。",
+          "options": [
+            { "key": "A", "text": "将外购货物用于捐赠" },
+            { "key": "B", "text": "将自产货物用于投资" },
+            { "key": "C", "text": "将自产货物用于连续生产" },
+            { "key": "D", "text": "将外购货物用于换取生产资料" }
+          ],
+          "answer": ["C"],
+          "analysis": "企业所得税是否视同销售，主要看“所有权是否发生转移”，所有权发生转移，视同销售。选项C：货物所有权未发生转移，不视同销售。",
+          "tags": ["企业所得税视同销售"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q015",
+          "question_no": "15",
+          "type": "single_choice",
+          "stem": "根据企业所得税法律制度的规定，下列各项中，在计算企业所得税应纳税所得额时准予扣除的是（ ）。",
+          "options": [
+            { "key": "A", "text": "企业向投资者支付的股息" },
+            { "key": "B", "text": "企业之间支付的管理费" },
+            { "key": "C", "text": "企业向交通部门缴纳的罚款" },
+            { "key": "D", "text": "企业为特殊工种职工支付的人身安全保险费" }
+          ],
+          "answer": ["D"],
+          "analysis": "（1）企业所得税前不得扣除的项目：①向投资者支付的股息、红利等权益性投资收益款项（选项A）；②企业所得税税款；③税收滞纳金；④罚金、罚款（选项C）和被没收财物的损失；⑤不符合规定的捐赠支出；⑥赞助支出，具体是指企业发生的与生产经营活动无关的各种非广告性质的赞助支出；⑦未经核定的准备金支出；⑧企业之间支付的管理费（选项B）、企业内营业机构之间支付的租金和特许权使用费，以及非银行企业内营业机构之间支付的利息；⑨与取得收入无关的其他支出。（2）选项D：企业依照国家规定为特殊工种职工支付的人身安全保险费支出，准予据实扣除。",
+          "tags": ["企业所得税税前扣除项目"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q016",
+          "question_no": "16",
+          "type": "single_choice",
+          "stem": "根据个人所得税法律制度的规定，在中国境内无住所的下列外籍个人中，属于2025年度中国个人所得税居民个人的是（ ）。",
+          "options": [
+            { "key": "A", "text": "汤姆2025年9月1日入境，2025年12月10日出境" },
+            { "key": "B", "text": "杰瑞2025年1月20日入境，2025年7月10日出境" },
+            { "key": "C", "text": "乔治2025年3月15日入境，2025年10月25日出境" },
+            { "key": "D", "text": "约翰2024年10月1日入境，2025年5月5日出境" }
+          ],
+          "answer": ["C"],
+          "analysis": "在中国境内无住所而一个纳税年度内在中国境内居住累计满183天的个人为我国居民个人。",
+          "tags": ["居民个人"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q017",
+          "question_no": "17",
+          "type": "single_choice",
+          "stem": "中国居民张某于2025年12月取得国债利息收入5000元、银行储蓄存款利息收入3000元、公司债券利息收入8000元，已知，利息、股息、红利所得个人所得税税率为20%。张某当月上述收入应缴纳个人所得税（ ）元。",
+          "options": [
+            { "key": "A", "text": "1000" },
+            { "key": "B", "text": "2200" },
+            { "key": "C", "text": "1600" },
+            { "key": "D", "text": "3200" }
+          ],
+          "answer": ["C"],
+          "analysis": "（1）国债利息收入、储蓄存款利息收入，免征个人所得税。（2）公司债券利息收入，照章纳税。（3）张某应缴纳个人所得税=8000×20%=1600（元）。",
+          "tags": ["利息、股息、红利所得"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q018",
+          "question_no": "18",
+          "type": "single_choice",
+          "stem": "根据资源税法律制度的规定，下列情形中，应缴纳资源税的是（ ）。",
+          "options": [
+            { "key": "A", "text": "用自采原煤连续生产选煤" },
+            { "key": "B", "text": "批发销售天然气" },
+            { "key": "C", "text": "零售汽油" },
+            { "key": "D", "text": "将外购原煤与自采原煤混合后销售" }
+          ],
+          "answer": ["D"],
+          "analysis": "（1）选项A：纳税人开采或者生产应税产品（原煤）自用的，应当依法缴纳资源税；但是，自用于连续生产应税产品（选煤）的，不缴纳资源税。（2）选项BC：资源税在开发销售（包括国内销售和出口销售）时缴纳，进口、批发、零售环节不缴纳资源税；且汽油不属于资源税征税范围。",
+          "tags": ["资源税征税范围"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q019",
+          "question_no": "19",
+          "type": "single_choice",
+          "stem": "某公司2024年年底对其原值为800万元的房产改扩建完毕，发生改扩建支出100万元，另更换了该房产的通风系统，更换的新通风系统价值40万元，换下的旧通风系统价值20万元。已知，房产税的原值扣除比例为30%，房产税比例税率为1.2%。计算该公司2025年房产税应纳税额的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "(800+40-20)×(1-30%)×1.2%" },
+            { "key": "B", "text": "(800+100-20)×(1-30%)×1.2%" },
+            { "key": "C", "text": "(800+100+40)×(1-30%)×1.2%" },
+            { "key": "D", "text": "(800+100+40-20)×(1-30%)×1.2%" }
+          ],
+          "answer": ["D"],
+          "analysis": "（1）纳税人对原有房屋进行改建、扩建的，要相应增加房屋的原值。（2）对更换房屋附属设备和配套设施的，在将其价值计入房产原值时，可扣减原来相应设备和设施的价值；对附属设备和配套设施中易损坏、需要经常更换的零配件，更新后不再计入房产原值。（3）该公司2025年房产税应纳税额=(800+100+40-20)×(1-30%)×1.2%=7.73（万元）。",
+          "tags": ["房产税应纳税额的计算"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q020",
+          "question_no": "20",
+          "type": "single_choice",
+          "stem": "下列属于纳税主体权利的是（ ）。",
+          "options": [
+            { "key": "A", "text": "税收立法权" },
+            { "key": "B", "text": "依法计征权" },
+            { "key": "C", "text": "委托税务代理权" },
+            { "key": "D", "text": "税务行政处罚权" }
+          ],
+          "answer": ["C"],
+          "analysis": "选项ABD：属于征税主体的职权。",
+          "tags": ["纳税主体的权利"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q021",
+          "question_no": "21",
+          "type": "single_choice",
+          "stem": "甲公司按规定最晚应于2025年11月14日缴纳应纳税款200000元，但其迟迟未缴。税务机关责令其于当年11月25日前缴纳，并按日加收滞纳税款0.5‰的滞纳金。甲公司直至次年1月16日才将税款缴清。计算甲公司应缴纳滞纳金金额的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "200000×(17+31+15)×0.5‰" },
+            { "key": "B", "text": "200000×(16+31+16)×0.5‰" },
+            { "key": "C", "text": "200000×(16+31)×0.5‰" },
+            { "key": "D", "text": "200000×(15+31+16)×0.5‰" }
+          ],
+          "answer": ["B"],
+          "analysis": "加收滞纳金的起止时间，为法律、行政法规规定或者税务机关依照法律、行政法规的规定确定的税款缴纳期限届满次日起至纳税人实际缴纳税款之日止，即2025年11月15日起至2026年1月16日止。",
+          "tags": ["滞纳金"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q022",
+          "question_no": "22",
+          "type": "single_choice",
+          "stem": "根据劳动合同法律制度的规定，发生下列情形解除劳动合同的，用人单位应向劳动者支付经济补偿金的是（ ）。",
+          "options": [
+            { "key": "A", "text": "劳动合同期满，用人单位维持或提高原条件续订而劳动者拒绝" },
+            { "key": "B", "text": "劳动者死亡，或者被人民法院宣告死亡或者宣告失踪的" },
+            { "key": "C", "text": "劳动者严重失职给用人单位造成损失的" },
+            { "key": "D", "text": "用人单位被依法宣告破产的" }
+          ],
+          "answer": ["D"],
+          "analysis": "选项ABC：用人单位无须向劳动者支付经济补偿金。",
+          "tags": ["经济补偿金"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q023",
+          "question_no": "23",
+          "type": "single_choice",
+          "stem": "2022年6月，张某大学毕业到甲公司工作，并与甲公司共同缴纳失业保险费。2025年8月，张某因甲公司解除其劳动合同而失业，随即办理了失业登记和失业保险金领取手续。张某可领取失业保险金的期限最长为（ ）。",
+          "options": [
+            { "key": "A", "text": "6个月" },
+            { "key": "B", "text": "12个月" },
+            { "key": "C", "text": "18个月" },
+            { "key": "D", "text": "24个月" }
+          ],
+          "answer": ["B"],
+          "analysis": "失业人员失业前用人单位和本人累计缴费年限满1年不足5年的，领取失业保险金的期限最长为12个月。",
+          "tags": ["失业保险"],
+          "difficulty": "易",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "section_id": "multiple_choice",
+      "section_name": "多项选择题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q024",
+          "question_no": "1",
+          "type": "multiple_choice",
+          "stem": "下列自然人中，属于完全民事行为能力人的有（ ）。",
+          "options": [
+            { "key": "A", "text": "20周岁在校学生张某" },
+            { "key": "B", "text": "17周岁以自己工资为主要生活来源的钱某" },
+            { "key": "C", "text": "9周岁小学三年级学生孙某" },
+            { "key": "D", "text": "6周岁经常登台演出并且有一定收入的李某" }
+          ],
+          "answer": ["A", "B"],
+          "analysis": "（1）选项A：18周岁以上的自然人为完全民事行为能力人。（2）选项B：16周岁以上的未成年人，以自己的劳动收入为主要生活来源的，视为完全民事行为能力人。（3）选项C：8周岁以上的未成年人，为限制民事行为能力人。（4）选项D：不满8周岁（<8周岁）的未成年人为无民事行为能力人。",
+          "tags": ["自然人的民事行为能力"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q025",
+          "question_no": "2",
+          "type": "multiple_choice",
+          "stem": "根据会计法律制度的规定，关于一式几联的发票和收据的填制，下列表述正确的有（ ）。",
+          "options": [
+            { "key": "A", "text": "必须使用双面复写纸（本身具备复写纸功能的除外）套写" },
+            { "key": "B", "text": "应连续编号" },
+            { "key": "C", "text": "作废时经会计主管人员批准可撕毁" },
+            { "key": "D", "text": "作废时应当加盖“作废”戳记" }
+          ],
+          "answer": ["A", "B", "D"],
+          "analysis": "一式几联的发票和收据，必须使用双面复写纸（发票和收据本身具备复写纸功能的除外）套写，并连续编号。作废时应当加盖“作废”戳记，连同存根一起保存，不得撕毁。",
+          "tags": ["发票和收据的填制"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q026",
+          "question_no": "3",
+          "type": "multiple_choice",
+          "stem": "甲公司签发了一张商业汇票用于采购设备，关于该商业汇票的下列记载事项中，不可以更改的有（ ）。",
+          "options": [
+            { "key": "A", "text": "收款人名称" },
+            { "key": "B", "text": "出票人签章" },
+            { "key": "C", "text": "出票人名称" },
+            { "key": "D", "text": "出票金额" }
+          ],
+          "answer": ["A", "D"],
+          "analysis": "出票金额、出票日期、收款人名称不得更改，更改的票据无效。",
+          "tags": ["票据行为"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q027",
+          "question_no": "4",
+          "type": "multiple_choice",
+          "stem": "根据增值税法律制度的规定，增值税一般纳税人购进的下列服务中，准予抵扣进项税额的有（ ）。",
+          "options": [
+            { "key": "A", "text": "企业厂房的保险服务" },
+            { "key": "B", "text": "直接用于消费的娱乐服务" },
+            { "key": "C", "text": "员工出差的住宿服务" },
+            { "key": "D", "text": "直接用于消费的餐饮服务" }
+          ],
+          "answer": ["A", "C"],
+          "analysis": "购进并直接用于消费的餐饮服务、居民日常服务和娱乐服务，不得抵扣进项税额。",
+          "tags": ["准予抵扣的进项税额"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q028",
+          "question_no": "5",
+          "type": "multiple_choice",
+          "stem": "根据消费税法律制度的规定，下列项目中可以抵扣消费税的有（ ）。",
+          "options": [
+            { "key": "A", "text": "外购已税玉石生产黄金镶嵌首饰" },
+            { "key": "B", "text": "外购已税普通小汽车生产超豪华小汽车" },
+            { "key": "C", "text": "外购已税烟丝生产卷烟" },
+            { "key": "D", "text": "外购已税汽油生产汽油" }
+          ],
+          "answer": ["C", "D"],
+          "analysis": "（1）选项A：纳税人用外购或委托加工收回的已税珠宝、玉石原料生产的改在零售环节征收消费税的金银首饰（镶嵌首饰），在计税时一律不得扣除外购或委托加工收回的珠宝、玉石的已纳税款。（2）选项B：允许抵扣税额的税目不包括酒、摩托车、小汽车、高档手表、游艇、电池、涂料。",
+          "tags": ["已纳消费税的扣除"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q029",
+          "question_no": "6",
+          "type": "multiple_choice",
+          "stem": "根据企业所得税法律制度的规定，下列各项中，属于企业所得税纳税人的有（ ）。",
+          "options": [
+            { "key": "A", "text": "乙个人独资企业" },
+            { "key": "B", "text": "丁个体工商户" },
+            { "key": "C", "text": "丙股份有限公司" },
+            { "key": "D", "text": "甲有限责任公司" }
+          ],
+          "answer": ["C", "D"],
+          "analysis": "（1）选项A：个人独资企业、合伙企业，不适用《企业所得税法》，不属于企业所得税纳税义务人。（2）选项B：个体工商户属于个人，不属于企业所得税纳税人。",
+          "tags": ["企业所得税纳税人"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q030",
+          "question_no": "7",
+          "type": "multiple_choice",
+          "stem": "根据个人所得税法律制度的规定，下列各项中，属于劳务报酬所得的有（ ）。",
+          "options": [
+            { "key": "A", "text": "个人因任职受雇从互联网平台公司取得的报酬" },
+            { "key": "B", "text": "个人因任职受雇从上市公司取得的股票增值权所得" },
+            { "key": "C", "text": "保险营销员从保险公司取得的佣金收入" },
+            { "key": "D", "text": "大学生假期兼职取得的收入" }
+          ],
+          "answer": ["C", "D"],
+          "analysis": "选项AB：均属于工资、薪金所得。",
+          "tags": ["劳务报酬所得"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q031",
+          "question_no": "8",
+          "type": "multiple_choice",
+          "stem": "根据契税法律制度的规定，下列行为不属于契税征税范围的有（ ）。",
+          "options": [
+            { "key": "A", "text": "土地经营权的转移" },
+            { "key": "B", "text": "写字楼的共有人由两人增加到三人" },
+            { "key": "C", "text": "土地使用权的抵押" },
+            { "key": "D", "text": "厂房的转让" }
+          ],
+          "answer": ["A", "C"],
+          "analysis": "（1）选项A：土地使用权转让属于契税的征税范围，但不包括土地承包经营权和土地经营权的转移。（2）选项C：土地、房屋典当、抵押以及出租等行为，不属于契税的征税范围。",
+          "tags": ["契税征税范围"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q032",
+          "question_no": "9",
+          "type": "multiple_choice",
+          "stem": "根据税收征收管理法律制度的规定，税务机关的下列行为中，属于税务行政复议范围的有（ ）。",
+          "options": [
+            { "key": "A", "text": "不依法履行法定职责的行为" },
+            { "key": "B", "text": "加收滞纳金" },
+            { "key": "C", "text": "资格认定行为" },
+            { "key": "D", "text": "发票管理行为" }
+          ],
+          "answer": ["A", "B", "C", "D"],
+          "analysis": "选项ABCD：均为税务机关作出的行政行为，均属于行政复议受案范围。",
+          "tags": ["税务行政复议范围"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q033",
+          "question_no": "10",
+          "type": "multiple_choice",
+          "stem": "职工基本社会保险的下列险种的经办工作中，由医疗保障行政部门负责的有（ ）。",
+          "options": [
+            { "key": "A", "text": "工伤保险" },
+            { "key": "B", "text": "基本医疗保险" },
+            { "key": "C", "text": "基本养老保险" },
+            { "key": "D", "text": "生育保险" }
+          ],
+          "answer": ["B", "D"],
+          "analysis": "（1）基本养老保险、工伤保险、失业保险，由人力资源社会保障行政部门经办。（2）基本医疗保险、生育保险由医疗保障行政部门经办。",
+          "tags": ["社会保险经办"],
+          "difficulty": "易",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "section_id": "true_false",
+      "section_name": "判断题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q034",
+          "question_no": "1",
+          "type": "true_false",
+          "stem": "外国人在我国享受选举权。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "外国人不能享有我国公民的某些权利或承担我国公民的某些义务，如选举权、担任公职和服兵役等。",
+          "tags": ["法律关系主体"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q035",
+          "question_no": "2",
+          "type": "true_false",
+          "stem": "票据权利不构成法律关系的客体。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "票据权利属于法律关系客体中的“物——无体物”。",
+          "tags": ["法律关系的客体"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q036",
+          "question_no": "3",
+          "type": "true_false",
+          "stem": "单位合并后原各单位解散的，原各单位的会计档案应当由合并后的单位全部销毁。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "单位合并后原各单位解散或者一方存续其他方解散的，原各单位的会计档案应当由合并后的单位统一保管。",
+          "tags": ["会计档案的归档"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q037",
+          "question_no": "4",
+          "type": "true_false",
+          "stem": "会计档案鉴定工作应当由单位档案管理机构牵头，组织单位会计、审计、纪检监察等机构或人员共同进行。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "会计档案鉴定工作应当由单位档案管理机构牵头，组织单位会计、审计、纪检监察等机构或人员共同进行。",
+          "tags": ["会计档案的鉴定"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q038",
+          "question_no": "5",
+          "type": "true_false",
+          "stem": "甲公司可以用现金一次性购买2万元预付卡。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "单位一次性购买预付卡5000元以上，个人一次性购买预付卡5万元以上的，应当通过银行转账等非现金结算方式购买，不得使用现金。",
+          "tags": ["预付卡"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q039",
+          "question_no": "6",
+          "type": "true_false",
+          "stem": "持票人对一般前手的首次追索权，自被拒绝承兑或者被拒绝付款之日起3个月。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "持票人对一般前手的首次追索权，自被拒绝承兑或者被拒绝付款之日起6个月；持票人对一般前手的再追索权，自清偿日或者被提起诉讼之日起3个月。",
+          "tags": ["票据权利时效"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q040",
+          "question_no": "7",
+          "type": "true_false",
+          "stem": "企业从事内陆养殖的所得，免征企业所得税。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "企业从事下列项目的所得，减半征收企业所得税：（1）花卉、茶以及其他饮料作物和香料作物的种植；（2）海水养殖、内陆养殖。",
+          "tags": ["企业所得税税收优惠"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q041",
+          "question_no": "8",
+          "type": "true_false",
+          "stem": "水资源税应向取水口所在地的税务机关申报缴纳。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "水资源税应向取水口所在地的税务机关申报缴纳。",
+          "tags": ["资源税征收管理"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q042",
+          "question_no": "9",
+          "type": "true_false",
+          "stem": "从事生产、经营的纳税人应当自领取税务登记证件之日起10日内，将其财务、会计制度或者财务、会计处理办法报送主管税务机关备案。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "从事生产、经营的纳税人应当自领取税务登记证件之日起15日内，将其财务、会计制度或者财务、会计处理办法报送主管税务机关备案。",
+          "tags": ["税务登记管理"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q043",
+          "question_no": "10",
+          "type": "true_false",
+          "stem": "在部分公民放假的节日期间，对参加社会活动或单位组织庆祝活动和照常工作的职工，单位应支付工资报酬，但不支付加班工资。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "在部分公民放假的节日期间，对参加社会活动或单位组织庆祝活动和照常工作的职工，单位应支付工资报酬，但不支付加班工资。",
+          "tags": ["休息休假"],
+          "difficulty": "易",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "section_id": "indefinite_choice",
+      "section_name": "不定项选择题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q044",
+          "question_no": "（一）",
+          "type": "indefinite_choice",
+          "stem": "甲方便面厂为增值税一般纳税人，主要从事方便面的生产和销售业务，2025年12月有关经济业务如下：（1）销售方便面取得含税价款79.1万元，另收取包装物租金5.65万元。（2）购进一批农产品作为生产用原材料，农产品销售发票注明买价10万元。（3）员工出差取得了国内旅客运输服务增值税电子普通发票；购进并直接用于消费的餐饮服务取得增值税普通发票；因出差住于某酒店取得酒店开具的增值税专用发票；日常通勤取得数份出租车发票。（4）将2017年购置的闲置厂房对外出租，一次性收取一年含增值税租金52.5万元，已按规定全额开具增值税专用发票。已知：方便面适用的增值税税率为13%，农产品扣除率为10%；出租厂房增值税税率为9%；取得的相关扣税凭证均已进行用途确认。要求：根据上述资料，不考虑其他因素，分析回答下列小题。",
+          "options": [],
+          "sub_questions": [
+            {
+              "sub_no": "1",
+              "question": "甲厂当月销售方便面增值税销项税额的下列计算列式中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "79.1÷(1+13%)×13%" },
+                { "key": "B", "text": "(79.1+5.65)×13%" },
+                { "key": "C", "text": "(79.1+5.65)÷(1+13%)×13%" },
+                { "key": "D", "text": "[79.1+5.65÷(1+13%)]×13%" }
+              ],
+              "answer": ["C"],
+              "analysis": "（1）销售货物同时收取的包装物租金属于与应税交易相关的价款，收取时价税分离并人销售额计征增值税。（2）已知79.1万元、5.65万元均含增值税，应价税分离。",
+              "tags": ["增值税销项税额的计算"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "2",
+              "question": "甲厂购进农产品允许抵扣进项税额的下列计算列式中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "10×10%" },
+                { "key": "B", "text": "10÷(1+10%)×10%" },
+                { "key": "C", "text": "10×(1+10%)×10%" },
+                { "key": "D", "text": "10÷(1-10%)×10%" }
+              ],
+              "answer": ["A"],
+              "analysis": "购进农产品用于生产或者委托加工13%税率货物，准予抵扣的进项税额=买价×10%。",
+              "tags": ["准予抵扣的进项税额"],
+              "difficulty": "易"
+            },
+            {
+              "sub_no": "3",
+              "question": "甲厂业务(3)中取得的下列票据，可以作为合法扣税凭证的是（ ）。",
+              "options": [
+                { "key": "A", "text": "购进餐饮服务取得的增值税普通发票" },
+                { "key": "B", "text": "酒店开具的增值税专用发票" },
+                { "key": "C", "text": "出租车发票" },
+                { "key": "D", "text": "购进国内旅客运输服务取得的增值税电子普通发票" }
+              ],
+              "answer": ["B", "D"],
+              "analysis": "（1）选项A：购进并直接用于消费的餐饮服务、居民日常服务和娱乐服务对应的进项税额不得抵扣（无论取得何种票据）。（2）选项C：不属于可以抵扣进项税额的合法扣税凭证。",
+              "tags": ["合法扣税凭证"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "4",
+              "question": "甲厂出租闲置厂房增值税销项税额的下列计算列式中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "52.5÷(1+9%)×9%" },
+                { "key": "B", "text": "52.5×9%" },
+                { "key": "C", "text": "52.5÷12÷(1+9%)×9%" },
+                { "key": "D", "text": "52.5÷12×9%" }
+              ],
+              "answer": ["A"],
+              "analysis": "已按规定开具了增值税发票，增值税纳税义务发生，销项税额=含税销售额/(1+税率)×税率=52.5÷(1+9%)×9%=4.33（万元）。",
+              "tags": ["增值税销项税额的计算"],
+              "difficulty": "中"
+            }
+          ]
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q045",
+          "question_no": "（二）",
+          "type": "indefinite_choice",
+          "stem": "中国公民张某为国内某大学教授。2025年1—4月有关收支情况如下：（1）1月将家庭第二套住房转让给李某，取得不含增值税销售收入94.5万元，该套住房原值84万元，系张某2022年8月购入，本次转让过程中，发生合理费用0.5万元。（2）2月获得当地教育部门颁发的区(县)级教育方面的奖金1万元。（3）3月转让从公开发行市场购入的境内上市公司股票6000股，取得股票转让所得12万元；通过沪港通转让香港上市股票取得所得6万元。（4）4月在甲电信公司购话费获赠价值3900元的手机一部。假设张某2025年其他收入及相关情况如下：（1）工资、薪金所得190000元，专项扣除40000元、专项附加扣除12000元。（2）劳务报酬所得8000元，稿酬所得5000元。已知：财产转让所得个人所得税税率为20%；综合所得，每一纳税年度减除费用60000元；劳务报酬所得、稿酬所得以收入减除20%的费用后的余额为收入额；稿酬所得的收入额减按70%计算。个人所得税税率表(综合所得适用)(部分) 级数1：不超过36000元的，税率3%，速算扣除数0；级数2：超过36000元至144000元的部分，税率10%，速算扣除数2520。要求：根据上述资料，不考虑其他因素，分析回答下列小题。",
+          "options": [],
+          "sub_questions": [
+            {
+              "sub_no": "1",
+              "question": "计算张某1月转让住房应缴纳个人所得税税额的下列算式中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "0" },
+                { "key": "B", "text": "(94.5-84-0.5)×20%" },
+                { "key": "C", "text": "(94.5-84)×20%" },
+                { "key": "D", "text": "94.5×20%" }
+              ],
+              "answer": ["B"],
+              "analysis": "（1）个人转让自用达5年以上并且是家庭唯一生活用房取得的所得，暂免征收个人所得税；个人转让第二套住房，不免征个人所得税。（2）财产转让所得，以转让财产的收入额减除财产原值和合理费用后的余额，为应纳税所得额。（3）应缴纳个人所得税税额=(94.5-84-0.5)×20%=2（万元）。",
+              "tags": ["财产转让所得"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "2",
+              "question": "关于张某向李某转让自有住房的下列表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "张某应按财产转让所得缴纳个人所得税" },
+                { "key": "B", "text": "张某享受免征个人所得税优惠" },
+                { "key": "C", "text": "张某转让住房应缴纳土地增值税" },
+                { "key": "D", "text": "李某受让住房应缴纳契税" }
+              ],
+              "answer": ["A", "D"],
+              "analysis": "（1）选项AB：对个人转让自用达5年以上并且是家庭唯一生活用房取得的所得，暂免征收个人所得税。（2）选项C：个人转让住房，暂免征收土地增值税。（3）选项D：李某承受住房权属，属于契税的纳税人，应缴纳契税。",
+              "tags": ["个人所得税财产转让所得", "契税纳税人"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "3",
+              "question": "张某的下列所得中，不缴纳个人所得税的是（ ）。",
+              "options": [
+                { "key": "A", "text": "香港上市股票转让所得6万元" },
+                { "key": "B", "text": "获赠价值3900元的手机" },
+                { "key": "C", "text": "区(县)级教育方面的奖金1万元" },
+                { "key": "D", "text": "境内上市公司股票转让所得12万元" }
+              ],
+              "answer": ["A", "B", "D"],
+              "analysis": "（1）选项AD：（暂）免征个人所得税。（2）选项B：企业在向个人销售商品（产品）和提供服务的同时给予赠品（如通信企业对个人购买手机赠送话费、入网费，或者购话费赠手机等），不征收个人所得税。（3）选项C：个人取得省级人民政府、国务院部委和中国人民解放军军以上单位，以及外国组织、国际组织颁发的科学、教育、技术、文化、卫生、体育、环境保护等方面的奖金，免征个人所得税；取得区（县）级教育方面的奖金，照章缴纳个人所得税。",
+              "tags": ["个人所得税税收优惠"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "4",
+              "question": "计算张某2025年综合所得应缴纳个人所得税税额的下列算式中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "(190000-60000-40000)×10%-2520+8000×(1-20%)×3%+5000×70%×3%" },
+                { "key": "B", "text": "(190000-60000-40000-12000)×10%-2520+8000×(1-20%)×3%+5000×(1-20%)×70%×3%" },
+                { "key": "C", "text": "[190000+8000×(1-20%)+5000×(1-20%)×70%-60000-40000-12000]×10%-2520" },
+                { "key": "D", "text": "(190000+8000+5000×70%-60000-40000)×10%-2520" }
+              ],
+              "answer": ["C"],
+              "analysis": "应纳税额=（综合所得收入额-费用6万元-专项扣除-专项附加扣除-依法确定的其他扣除）×适用税率-速算扣除数=[190000+8000×(1-20%)+5000×(1-20%)×70%-60000-40000-12000]×10%-2520=6200（元）。",
+              "tags": ["综合所得应纳税额的计算"],
+              "difficulty": "难"
+            }
+          ]
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2026_mock_set1.q046",
+          "question_no": "（三）",
+          "type": "indefinite_choice",
+          "stem": "2025年11月19日，甲公司向乙公司签发了一张出票后1个月付款、金额为50万元的纸质商业汇票，该汇票载明丙公司为付款人，丁公司在汇票上签章作了保证，但未记载被保证人名称。乙公司取得汇票后背书转让给戊公司，但未记载被背书人名称。戊公司将自已的名称填入被背书人名称栏后，于2025年12月15日向丙公司提示承兑，丙公司以其所欠甲公司债务只有30万元为由拒绝承兑。戊公司拟行使追索权实现自己的票据权利。要求：根据上述资料，不考虑其他因素，分析回答下列小题。",
+          "options": [],
+          "sub_questions": [
+            {
+              "sub_no": "1",
+              "question": "该汇票未记载被保证人名称，被保证人是（ ）。",
+              "options": [
+                { "key": "A", "text": "甲公司" },
+                { "key": "B", "text": "乙公司" },
+                { "key": "C", "text": "丙公司" },
+                { "key": "D", "text": "戊公司" }
+              ],
+              "answer": ["A"],
+              "analysis": "保证人在票据或者粘单上未记载“被保证人名称”的，已承兑的票据，承兑人为被保证人；未承兑的票据，出票人为被保证人。在本题中，丙公司拒绝承兑票据，应以出票人甲公司为被保证人。",
+              "tags": ["票据保证"],
+              "difficulty": "易"
+            },
+            {
+              "sub_no": "2",
+              "question": "乙公司背书转让时未记载被背书人名称，该背书（ ）。",
+              "options": [
+                { "key": "A", "text": "无效" },
+                { "key": "B", "text": "不成立" },
+                { "key": "C", "text": "由戊公司补记后有效" },
+                { "key": "D", "text": "只有由乙公司补记才有效" }
+              ],
+              "answer": ["C"],
+              "analysis": "背书人未记载被背书人名称即将票据交付他人的，持票人在票据被背书人栏内记载自己的名称与背书人记载具有同等法律效力。",
+              "tags": ["票据背书"],
+              "difficulty": "易"
+            },
+            {
+              "sub_no": "3",
+              "question": "戊公司有权向（ ）追索。",
+              "options": [
+                { "key": "A", "text": "甲公司" },
+                { "key": "B", "text": "乙公司" },
+                { "key": "C", "text": "丙公司" },
+                { "key": "D", "text": "丁公司" }
+              ],
+              "answer": ["A", "B", "D"],
+              "analysis": "持票人可以向票据的出票人（甲公司）、背书人（乙公司）、承兑人和保证人（丁公司）中的任何一人、数人或者全体行使追索权。在本题中，丙公司并未承兑票据，并非承兑人，只是票面上记载的付款人，不是票据债务人，不承担票据责任，所以戊公司无权向其追索。",
+              "tags": ["票据追索权"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "4",
+              "question": "戊公司向乙公司行使追索权的截止时间为（ ）。",
+              "options": [
+                { "key": "A", "text": "2026年2月19日" },
+                { "key": "B", "text": "2026年5月19日" },
+                { "key": "C", "text": "2026年3月15日" },
+                { "key": "D", "text": "2026年6月15日" }
+              ],
+              "answer": ["D"],
+              "analysis": "持票人对出票人、承兑人以外前手的追索权，在被拒绝承兑（2025年12月15日）或者被拒绝付款之日起6个月内行使。",
+              "tags": ["票据权利时效"],
+              "difficulty": "中"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,965 @@
+{
+  "schema_version": "2.0",
+  "scope": {
+    "exam_id": "assistant_accountant",
+    "exam_name": "初级会计职称",
+    "subject_id": "primary_economic_law",
+    "subject_name": "经济法基础",
+    "paper_id": "2023_economic_law_set1",
+    "paper_name": "2023年《经济法基础》真题（一）"
+  },
+  "chapter_id": "paper_2023_economic_law_set1",
+  "chapter_name": "2023年真题（一）",
+  "sections": [
+    {
+      "section_id": "single_choice",
+      "section_name": "单项选择题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q001",
+          "question_no": "1",
+          "type": "single_choice",
+          "stem": "下列法律责任形式中属于民事责任的是（ ）。",
+          "options": [
+            { "key": "A", "text": "罚款" },
+            { "key": "B", "text": "没收财产" },
+            { "key": "C", "text": "吊销许可证件" },
+            { "key": "D", "text": "支付违约金" }
+          ],
+          "answer": ["D"],
+          "analysis": "民事责任包括停止侵害，排除妨碍，消除危险，返还财产，恢复原状，修理、重作、更换，继续履行，赔偿损失，支付违约金，消除影响、恢复名誉，赔礼道歉。",
+          "tags": ["民事责任"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q002",
+          "question_no": "2",
+          "type": "single_choice",
+          "stem": "2022年10月19日，甲公司签发了一张支票用于购买办公用品，该支票出票日期应记载为（ ）。",
+          "options": [
+            { "key": "A", "text": "贰零贰贰年拾月拾玖日" },
+            { "key": "B", "text": "贰零贰贰年壹拾月拾玖日" },
+            { "key": "C", "text": "贰零贰贰年壹拾月壹拾玖日" },
+            { "key": "D", "text": "贰零贰贰年零壹拾月壹拾玖日" }
+          ],
+          "answer": ["D"],
+          "analysis": "记载要求适用情形：在其前加“零”月为“壹”“贰”和“壹拾”的；日为“壹”至“玖”；“壹拾”“贰拾”和“叁拾”在其前加“壹”；日为“拾壹”至“拾玖”。",
+          "tags": ["支付结算的要求"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q003",
+          "question_no": "3",
+          "type": "single_choice",
+          "stem": "甲公司按规定最晚应于3月15日缴纳税款400000元，但其迟迟未缴，税务机关责令其于3月30日前缴纳并加收滞纳金。甲公司直至当年4月25日才缴纳税款，已知滞纳金按日加收标准为滞纳税款0.5‰。甲公司应缴纳滞纳金金额为（ ）。",
+          "options": [
+            { "key": "A", "text": "400000×0.5‰×27=5400（元）" },
+            { "key": "B", "text": "400000×0.5‰×41=8200（元）" },
+            { "key": "C", "text": "400000×0.5‰×26=5200（元）" },
+            { "key": "D", "text": "400000×0.5‰×42=8400（元）" }
+          ],
+          "answer": ["B"],
+          "analysis": "加收滞纳金的起止时间，为法律、行政法规规定或者税务机关依照法律、行政法规的规定确定的税款缴纳期限届满次日起至纳税人实际缴纳税款之日止，即3月16日（含）起至4月25日（含）止，共计天数=16+25=41（天）。",
+          "tags": ["税款征收的保障措施"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q004",
+          "question_no": "4",
+          "type": "single_choice",
+          "stem": "甲公司和乙公司均为增值税一般纳税人，2022年5月乙公司将买入价为530万元的P公司股票全部无偿转让给甲公司，甲公司当月将无偿受让的P公司股票以848万元的价格全部卖出，支付手续费及印花税合计1.1024万元。甲公司当月无其他金融商品转让业务，也无上期结转的金融商品转让负差，已知增值税税率为6%，计算甲公司当月转让P公司股票增值税销项税额的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "848/(1+6%)×6%=48（万元）" },
+            { "key": "B", "text": "(848-1.1024)/(1+6%)×6%=47.9376（万元）" },
+            { "key": "C", "text": "(848-530-1.1024)/(1+6%)×6%=17.9376（万元）" },
+            { "key": "D", "text": "(848-530)/(1+6%)×6%=18（万元）" }
+          ],
+          "answer": ["D"],
+          "analysis": "金融商品转让按照卖出价扣除买入价后的余额作为销售额，排除选项ABC。纳税人无偿转让股票时，转出方以该股票的买入价为卖出价，按照金融商品转让计算缴纳增值税；在转入方将上述股票再转让时，以原转出方的卖出价为买入价，按照金融商品转让计算缴纳增值税。",
+          "tags": ["销项税额的计算"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q005",
+          "question_no": "5",
+          "type": "single_choice",
+          "stem": "根据消费税法律制度的规定，下列行为中，应缴纳消费税的是（ ）。",
+          "options": [
+            { "key": "A", "text": "外贸公司进口金银首饰" },
+            { "key": "B", "text": "超市零售卷烟" },
+            { "key": "C", "text": "轮胎厂销售自产汽车轮胎" },
+            { "key": "D", "text": "4S店零售超豪华小汽车" }
+          ],
+          "answer": ["D"],
+          "analysis": "（1）选项A：金银首饰只在零售环节征收消费税，在基本环节不征收消费税；（2）选项BD：超市、4S店都是直接面向消费者的销售，属于零售环节，零售环节只有“金银铂钻”和“超豪华小汽车”涉及消费税，卷烟在零售环节不征收消费税；（3）选项C：汽车轮胎不属于应税消费品，不征收消费税。",
+          "tags": ["消费税征税范围"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q006",
+          "question_no": "6",
+          "type": "single_choice",
+          "stem": "甲地板厂受乙公司委托加工一批实木地板，乙公司提供的材料成本为45000元，甲地板厂收取不含增值税加工费12000元。甲地板厂同类实木地板不含税销售价格为100000元，乙公司同类实木地板不含税销售价格为120000元，已知消费税税率为5%。计算甲地板厂上述业务应代收代缴消费税税额的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "120000×5%=6000（元）" },
+            { "key": "B", "text": "(45000+12000)÷(1-5%)×5%=3000（元）" },
+            { "key": "C", "text": "(45000+12000)×5%=2850（元）" },
+            { "key": "D", "text": "100000×5%=5000（元）" }
+          ],
+          "answer": ["D"],
+          "analysis": "（1）委托加工的应税消费品，按照受托方（而非委托方）的同类消费品的销售价格计算纳税，没有同类消费品销售价格的，按照组成计税价格计算纳税。选项A排除。（2）本题由于存在受托方同类消费品的销售价格（100000元），无须组成计税价格计算，选项BC均予排除。",
+          "tags": ["委托加工应纳消费税的计算"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q007",
+          "question_no": "7",
+          "type": "single_choice",
+          "stem": "根据消费税法律制度的规定，关于消费税纳税义务发生时间的下列表述中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "纳税人进口应税消费品的，为支付货价的当天" },
+            { "key": "B", "text": "纳税人委托加工应税消费品的，为支付加工费的当天" },
+            { "key": "C", "text": "纳税人采取托收承付方式销售应税消费品的，为收到托收款项的当天" },
+            { "key": "D", "text": "纳税人自产自用应税消费品的，为移送使用的当天" }
+          ],
+          "answer": ["D"],
+          "analysis": "（1）选项A：纳税人进口应税消费品的，消费税纳税义务发生时间为报关进口的当天。（2）选项B：纳税人委托加工应税消费品的，消费税纳税义务发生时间为纳税人提货的当天。（3）选项C：纳税人采取托收承付、委托银行收款结算方式的，消费税纳税义务发生时间为发出应税消费品并办妥托收手续的当天。",
+          "tags": ["消费税纳税义务发生时间"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q008",
+          "question_no": "8",
+          "type": "single_choice",
+          "stem": "甲公司为增值税一般纳税人，2022年10月向税务机关实际缴纳增值税200万元、房产税2万元、城镇土地使用税3万元，预缴企业所得税100万元。已知适用的城市维护建设税税率为7%。计算甲公司当月应缴纳城市维护建设税税额的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "200×7%=14（万元）" },
+            { "key": "B", "text": "(200+2+3+100)×7%=21.35（万元）" },
+            { "key": "C", "text": "(200+2+100)×7%=21.14（万元）" },
+            { "key": "D", "text": "(200+100)×7%=21（万元）" }
+          ],
+          "answer": ["A"],
+          "analysis": "城市维护建设税以纳税人依法实际缴纳的“增值税、消费税税额”（不包括其他税费，选项BCD错误，选项A正确）为计税依据。",
+          "tags": ["城市维护建设税计税依据"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q009",
+          "question_no": "9",
+          "type": "single_choice",
+          "stem": "根据企业所得税法律制度的规定，下列业务中，不属于视同销售货物的是（ ）。",
+          "options": [
+            { "key": "A", "text": "将外购货物用于捐赠" },
+            { "key": "B", "text": "将自产货物用于捐赠" },
+            { "key": "C", "text": "将自产货物用于办公" },
+            { "key": "D", "text": "将外购货物用于偿债" }
+          ],
+          "answer": ["C"],
+          "analysis": "企业所得税是否视同销售，主要看“所有权是否发生转移”，所有权发生转移，视同销售。选项C：货物所有权未发生转移，不视同销售。",
+          "tags": ["企业所得税收入总额"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q010",
+          "question_no": "10",
+          "type": "single_choice",
+          "stem": "下列各项中，属于生产性生物资产的是（ ）。",
+          "options": [
+            { "key": "A", "text": "存栏待售的猪" },
+            { "key": "B", "text": "自行栽培的蔬菜" },
+            { "key": "C", "text": "养殖的扇贝" },
+            { "key": "D", "text": "奶牛" }
+          ],
+          "answer": ["D"],
+          "analysis": "生产性生物资产，是指企业为生产农产品、提供劳务或者出租等而持有的生物资产，包括经济林、薪炭林、产畜和役畜等。",
+          "tags": ["企业所得税资产的税务处理"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q011",
+          "question_no": "11",
+          "type": "single_choice",
+          "stem": "徐某为家中独子，其父亲65周岁。2022年1月取得工资16800元、专项扣除3400元。已知工资、薪金所得预扣预缴个人所得税减除费用为5000元/月；赡养老人按每月3000元的标准定额扣除；累计预扣预缴应纳税所得额不超过36000元的部分，预扣率为3%。计算徐某当月工资、薪金所得应预扣预缴个人所得税税额的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "16800×3%" },
+            { "key": "B", "text": "(16800-5000-3400-3000)×3%" },
+            { "key": "C", "text": "(16800-5000)×3%" },
+            { "key": "D", "text": "(16800-5000-3000)×3%" }
+          ],
+          "answer": ["B"],
+          "analysis": "做此类题，要注意扣除项目是否齐全，选项A完全没有扣除项目，选项C没有扣除专项扣除、专项附加扣除，选项D没有扣除专项扣除，均予以排除。",
+          "tags": ["个人所得税应纳税额计算的一般规定"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q012",
+          "question_no": "12",
+          "type": "single_choice",
+          "stem": "王某参加某商场有奖竞猜活动取得第二名，获得奖金5000元，需要缴纳的个人所得税是（ ）元。",
+          "options": [
+            { "key": "A", "text": "0" },
+            { "key": "B", "text": "800" },
+            { "key": "C", "text": "1000" },
+            { "key": "D", "text": "1200" }
+          ],
+          "answer": ["C"],
+          "analysis": "（1）有奖竞猜不属于“有奖发票”，没有减免税优惠，正常按照“偶然所得”全额计税。（2）王某应缴纳个人所得税=5000×20%=1000（元）。",
+          "tags": ["个人所得税应纳税额计算的一般规定"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q013",
+          "question_no": "13",
+          "type": "single_choice",
+          "stem": "个体工商户的下列支出中，在计算其“经营所得”个人所得税应纳税所得额时，准予扣除的是（ ）。",
+          "options": [
+            { "key": "A", "text": "实际支付给从业人员的合理的工资" },
+            { "key": "B", "text": "税收滞纳金" },
+            { "key": "C", "text": "用于个人和家庭的支出" },
+            { "key": "D", "text": "赞助支出" }
+          ],
+          "answer": ["A"],
+          "analysis": "个体工商户在计算经营所得应纳税所得额时发生的下列支出不得扣除：（1）个人所得税税款；（2）税收滞纳金（选项B）；（3）罚金、罚款和被没收财物的损失；（4）不符合扣除规定的捐赠支出；（5）赞助支出（选项D）；（6）用于个人和家庭的支出（选项C）；（7）与取得生产经营收入无关的其他支出；（8）国家税务总局规定不准扣除的支出。",
+          "tags": ["经营所得应纳税所得额的确定"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q014",
+          "question_no": "14",
+          "type": "single_choice",
+          "stem": "2022年2月法定继承人李某通过继承承受市场价值为100万元的房屋一套。同年10月李某购买商品房一套，取得增值税普通发票注明金额200万元、税额18万元。已知当地规定的契税税率为3%。计算李某上述行为应缴纳契税税额的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "(100+200)×3%=9（万元）" },
+            { "key": "B", "text": "(100+200+18)×3%=9.54（万元）" },
+            { "key": "C", "text": "200×3%=6（万元）" },
+            { "key": "D", "text": "(200+18)×3%=6.54（万元）" }
+          ],
+          "answer": ["C"],
+          "analysis": "（1）法定继承人通过继承承受土地、房屋权属免征契税，排除选项AB；（2）房屋买卖，契税的计税依据应为不含增值税的成交价格，排除选项D；（3）李某应缴纳的契税税额=200×3%=6（万元）。",
+          "tags": ["契税应纳税额的计算"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q015",
+          "question_no": "15",
+          "type": "single_choice",
+          "stem": "根据土地增值税法律制度的规定，下列行为中，属于土地增值税征税范围的是（ ）。",
+          "options": [
+            { "key": "A", "text": "甲服装公司将厂房转让" },
+            { "key": "B", "text": "王某将住房对外出租" },
+            { "key": "C", "text": "乙房地产公司将开发的商品房转为办公自用" },
+            { "key": "D", "text": "张某将商铺用于抵押" }
+          ],
+          "answer": ["A"],
+          "analysis": "（1）选项B：涉及的是出租，产权不发生转移，不征收土地增值税。（2）选项C：房地产开发企业将开发的部分房地产转为企业自用或用于出租等商业用途时，如果产权未发生转移，不征收土地增值税。（3）选项D：对于房地产的抵押，在抵押期间不征收土地增值税；如果抵押期满以房地产抵债，发生房地产权属转移的，应列入土地增值税的征税范围。",
+          "tags": ["土地增值税征税范围"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q016",
+          "question_no": "16",
+          "type": "single_choice",
+          "stem": "根据印花税法律制度的规定，下列凭证中，不属于印花税征税范围的是（ ）。",
+          "options": [
+            { "key": "A", "text": "建设工程合同的分包合同" },
+            { "key": "B", "text": "股权转让书据" },
+            { "key": "C", "text": "发电厂与电网之间书立的购售电合同" },
+            { "key": "D", "text": "仲裁机构的仲裁文书" }
+          ],
+          "answer": ["D"],
+          "analysis": "不属于印花税征收范围的凭证：（1）人民法院的生效法律文书、仲裁机构的仲裁文书（选项D）、监察机关的监察文书。（2）县级以上人民政府及其所属部门按照行政管理权限征收、收回或者补偿安置房地产书立的合同、协议或者行政类文书。（3）总公司与分公司、分公司与分公司之间书立的作为执行计划使用的凭证。",
+          "tags": ["印花税征税范围"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q017",
+          "question_no": "17",
+          "type": "single_choice",
+          "stem": "根据税收征收管理法律制度的规定，因税务机关的责任致使纳税人未缴或少缴税款的，税务机关在一定期限内可以要求纳税人补缴税款，该期限为（ ）。",
+          "options": [
+            { "key": "A", "text": "10年" },
+            { "key": "B", "text": "7年" },
+            { "key": "C", "text": "5年" },
+            { "key": "D", "text": "3年" }
+          ],
+          "answer": ["D"],
+          "analysis": "因税务机关的责任，致使纳税人、扣缴义务人未缴或者少缴税款的，税务机关在3年内可以要求纳税人、扣缴义务人补缴税款，但是不得加收滞纳金。",
+          "tags": ["税款征收的其他规定"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q018",
+          "question_no": "18",
+          "type": "single_choice",
+          "stem": "2022年11月30日，甲公司不再与经理刘某续订劳动合同，刘某的劳动合同期满终止，已知刘某在甲公司的工作年限为13年；劳动合同终止前12个月刘某的月平均工资为16000元，当地上年度职工月平均工资6000元。计算劳动合同终止时刘某有权获得的经济补偿的下列算式中，正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "6000×3×13=234000（元）" },
+            { "key": "B", "text": "16000×12=192000（元）" },
+            { "key": "C", "text": "16000×13=208000（元）" },
+            { "key": "D", "text": "6000×3×12=216000（元）" }
+          ],
+          "answer": ["C"],
+          "analysis": "（1）经济补偿金按劳动者在本单位工作的年限，每满1年支付1个月工资的标准向劳动者支付。计算公式：经济补偿金=劳动合同解除或终止前劳动者在本单位的工作年限×每工作1年应得的经济补偿金=工作年限×月工资。（2）劳动者月工资高于用人单位所在直辖市、设区的市级人民政府公布的本地区上年度职工月平均工资3倍的，向其支付经济补偿金的标准按职工月平均工资3倍的数额支付，向其支付经济补偿金的年限最高不超过12年。（3）在本题中，刘某的月平均工资为16000元，不高于当地上年度职工月平均工资的3倍（6000×3=18000），所以工作年限就是刘某在甲公司的工作的实际年限（13年）。",
+          "tags": ["经济补偿金"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q019",
+          "question_no": "19",
+          "type": "single_choice",
+          "stem": "张某是某事业单位会计负责人，其妻子是会计人员，则其妻子不能在该事业单位担任的岗位是（ ）。",
+          "options": [
+            { "key": "A", "text": "出纳" },
+            { "key": "B", "text": "稽核" },
+            { "key": "C", "text": "经营成果核算" },
+            { "key": "D", "text": "成本核算" }
+          ],
+          "answer": ["A"],
+          "analysis": "会计机构负责人、会计主管人员的直系亲属不得在本单位会计机构中担任出纳工作。",
+          "tags": ["会计工作岗位的设置"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q020",
+          "question_no": "20",
+          "type": "single_choice",
+          "stem": "下列关于职工带薪年休假的表述中，不正确的是（ ）。",
+          "options": [
+            { "key": "A", "text": "职工累计工作已满10年不满20年的，年休假15天" },
+            { "key": "B", "text": "职工连续工作1年以上的，可以享受带薪年休假" },
+            { "key": "C", "text": "职工在年休假期间享受与正常工作期间相同的工资收入" },
+            { "key": "D", "text": "职工累计工作已满20年的，年休假15天" }
+          ],
+          "answer": ["A"],
+          "analysis": "选项A：职工累计工作已满10年不满20年的，年休假10天。",
+          "tags": ["带薪年休假"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q021",
+          "question_no": "21",
+          "type": "single_choice",
+          "stem": "员工与某公司签订2年的劳动合同，约定试用期3个月，转正后工资每月5000元，试用期工资每月4200元，4个月后该员工发现劳动合同中关于试用期期限的约定不符合法律规定。根据劳动合同法律制度的规定，该公司应当向该员工支付的赔偿金额是（ ）元。",
+          "options": [
+            { "key": "A", "text": "5000" },
+            { "key": "B", "text": "4200" },
+            { "key": "C", "text": "10000" },
+            { "key": "D", "text": "8400" }
+          ],
+          "answer": ["A"],
+          "analysis": "劳动合同期限1年以上不满3年的，试用期不得超过2个月。用人单位违反规定与劳动者约定试用期，且违法约定的试用期已经履行的，由用人单位以劳动者试用期满月工资为标准，按已经履行的超过法定试用期的期间向劳动者支付赔偿金，即赔偿金=试用期满月工资×（已履行试用期期限-法定试用期期限）。",
+          "tags": ["试用期"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q022",
+          "question_no": "22",
+          "type": "single_choice",
+          "stem": "张某在领取失业保险金期间，顺利就业后又失业，张某最长可以领取（ ）失业保险金。",
+          "options": [
+            { "key": "A", "text": "12个月" },
+            { "key": "B", "text": "24个月" },
+            { "key": "C", "text": "18个月" },
+            { "key": "D", "text": "36个月" }
+          ],
+          "answer": ["B"],
+          "analysis": "重新就业后，再次失业的，缴费时间重新计算，领取失业保险金的期限与前次失业应当领取而尚未领取的失业保险金的期限合并计算，最长不超过24个月。",
+          "tags": ["失业保险"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q023",
+          "question_no": "23",
+          "type": "single_choice",
+          "stem": "根据《会计档案管理办法》的规定，保管期限为30年的是（ ）。",
+          "options": [
+            { "key": "A", "text": "月度财务报告" },
+            { "key": "B", "text": "年度财务报告" },
+            { "key": "C", "text": "日记账" },
+            { "key": "D", "text": "银行对账单" }
+          ],
+          "answer": ["C"],
+          "analysis": "（1）选项AD：最低保管期限为10年。（2）选项B：年度财务会计报告的保管期限为永久。",
+          "tags": ["会计档案的保管期限"],
+          "difficulty": "中",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "section_id": "multiple_choice",
+      "section_name": "多项选择题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q024",
+          "question_no": "1",
+          "type": "multiple_choice",
+          "stem": "下列选项中属于我国法的渊源的有（ ）。",
+          "options": [
+            { "key": "A", "text": "我国参加的国际条约" },
+            { "key": "B", "text": "最高人民法院所作的判决" },
+            { "key": "C", "text": "民族自治地方的单行条例" },
+            { "key": "D", "text": "中国人民银行制定的部门规章" }
+          ],
+          "answer": ["A", "C", "D"],
+          "analysis": "选项B：我国不实行判例制度，最高人民法院所作的判决书不属于法的渊源。",
+          "tags": ["法的渊源"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q025",
+          "question_no": "2",
+          "type": "multiple_choice",
+          "stem": "根据支付结算法律制度的规定，下列各项中属于单位银行结算账户按用途分类的有（ ）。",
+          "options": [
+            { "key": "A", "text": "基本存款账户" },
+            { "key": "B", "text": "预算单位零余额账户" },
+            { "key": "C", "text": "专用存款账户" },
+            { "key": "D", "text": "一般存款账户" }
+          ],
+          "answer": ["A", "C", "D"],
+          "analysis": "单位银行结算账户按用途分为基本存款账户、一般存款账户、专用存款账户、临时存款账户。",
+          "tags": ["银行结算账户的概念和种类"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q026",
+          "question_no": "3",
+          "type": "multiple_choice",
+          "stem": "根据消费税法律制度的规定，下列关于确定从量计征销售数量的表述中，正确的有（ ）。",
+          "options": [
+            { "key": "A", "text": "委托加工应税消费品的，为纳税人收回的应税消费品数量" },
+            { "key": "B", "text": "进口应税消费品的，为海关核定的应税消费品进口征税数量" },
+            { "key": "C", "text": "生产销售应税消费品的，为应税消费品的生产数量" },
+            { "key": "D", "text": "自产自用应税消费品的，为应税消费品的移送使用数量" }
+          ],
+          "answer": ["A", "B", "D"],
+          "analysis": "选项C：销售应税消费品的，为应税消费品的销售数量。",
+          "tags": ["消费税销售额的确定"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q027",
+          "question_no": "4",
+          "type": "multiple_choice",
+          "stem": "下列企业均从事国家非限制和禁止行业，其中属于小型微利企业的有（ ）。",
+          "options": [
+            { "key": "A", "text": "年度企业所得税应纳税所得额400万元、从业人数260人、资产总额4000万元的甲企业" },
+            { "key": "B", "text": "年度企业所得税应纳税所得额200万元、从业人数160人、资产总额4000万元的乙企业" },
+            { "key": "C", "text": "年度企业所得税应纳税所得额500万元、从业人数500人、资产总额6000万元的丙企业" },
+            { "key": "D", "text": "年度企业所得税应纳税所得额200万元、从业人数260人、资产总额3000万元的丁企业" }
+          ],
+          "answer": ["B", "D"],
+          "analysis": "小型微利企业是指从事国家非限制和禁止行业，且同时符合年度应纳税所得额不超过300万元、从业人数不超过300人、资产总额不超过5000万元3个条件的企业。",
+          "tags": ["企业所得税税收优惠"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q028",
+          "question_no": "5",
+          "type": "multiple_choice",
+          "stem": "下列各项中，不得计算折旧在税前扣除的是（ ）。",
+          "options": [
+            { "key": "A", "text": "未投入使用的房屋、建筑物" },
+            { "key": "B", "text": "已足额提取折旧仍继续使用的固定资产" },
+            { "key": "C", "text": "以融资租赁方式租出的固定资产" },
+            { "key": "D", "text": "未投入使用的机器设备" }
+          ],
+          "answer": ["B", "C", "D"],
+          "analysis": "在计算应纳税所得额时，企业按照税法规定计算的固定资产折旧，准予扣除；但下列固定资产不得计算折旧扣除：（1）房屋、建筑物以外未投入使用的固定资产；（2）以经营租赁方式租入的固定资产；（3）以融资租赁方式租出的固定资产；（4）已足额提取折旧仍继续使用的固定资产；（5）与经营活动无关的固定资产；（6）单独估价作为固定资产入账的土地；（7）其他不得计提折旧扣除的固定资产。",
+          "tags": ["固定资产的税务处理"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q029",
+          "question_no": "6",
+          "type": "multiple_choice",
+          "stem": "根据房产税法律制度的规定，位于县城的下列房产中，应缴纳房产税的有（ ）。",
+          "options": [
+            { "key": "A", "text": "高校学生公寓" },
+            { "key": "B", "text": "医疗卫生单位附属工厂的厂房" },
+            { "key": "C", "text": "名胜古迹中附设的影剧院" },
+            { "key": "D", "text": "个人拥有的营业用房" }
+          ],
+          "answer": ["B", "C", "D"],
+          "analysis": "选项A：对高校学生公寓免征房产税。",
+          "tags": ["房产税税收优惠"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q030",
+          "question_no": "7",
+          "type": "multiple_choice",
+          "stem": "下列民航机场用地中，不需要缴纳城镇土地使用税的有（ ）。",
+          "options": [
+            { "key": "A", "text": "机场工作区" },
+            { "key": "B", "text": "跑道" },
+            { "key": "C", "text": "场内外通讯导航设施" },
+            { "key": "D", "text": "机场飞行区四周排水防洪设施" }
+          ],
+          "answer": ["B", "C", "D"],
+          "analysis": "（1）选项BCD：机场飞行区（包括跑道、滑行道、停机坪、安全带、夜航灯光区）用地、场内外通讯导航设施用地和飞行区四周排水防洪设施用地，免征城镇土地使用税。（2）选项A：机场工作区（包括办公、生产和维修用地及候机楼、停车场）用地、生活区用地、绿化用地，均须依照规定征收城镇土地使用税。",
+          "tags": ["城镇土地使用税税收优惠"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q031",
+          "question_no": "8",
+          "type": "multiple_choice",
+          "stem": "根据社会保险法律制度的规定，职工在家因病去世，其遗属可以领取（ ），所需资金从基本养老保险基金中支付。",
+          "options": [
+            { "key": "A", "text": "丧葬补助金" },
+            { "key": "B", "text": "遗属抚恤金" },
+            { "key": "C", "text": "一次性工伤医疗补助金" },
+            { "key": "D", "text": "一次性工亡补助金" }
+          ],
+          "answer": ["A", "B"],
+          "analysis": "参加职工基本养老保险的个人，因病或者非因工死亡的，其遗属可以领取丧葬补助金和抚恤金，所需资金从基本养老保险基金中支付。",
+          "tags": ["职工基本养老保险的覆盖范围"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q032",
+          "question_no": "9",
+          "type": "multiple_choice",
+          "stem": "下列各项中，属于会计档案归档范围的有（ ）。",
+          "options": [
+            { "key": "A", "text": "年度财务计划" },
+            { "key": "B", "text": "会计报告" },
+            { "key": "C", "text": "原始凭证" },
+            { "key": "D", "text": "银行对账单" }
+          ],
+          "answer": ["B", "C", "D"],
+          "analysis": "下列会计资料应当进行归档：（1）会计凭证，包括原始凭证、记账凭证；（2）会计账簿，包括总账、明细账、日记账、固定资产卡片及其他辅助性账簿；（3）财务会计报告，包括月度、季度、半年度财务会计报告和年度财务会计报告；（4）其他会计资料，包括银行存款余额调节表、银行对账单、纳税申报表、会计档案移交清册、会计档案保管清册、会计档案销毁清册、会计档案鉴定意见书及其他具有保存价值的会计资料。",
+          "tags": ["会计档案的归档"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q033",
+          "question_no": "10",
+          "type": "multiple_choice",
+          "stem": "甲公司职工周某患病住院治疗。在规定的医疗期满后周某不能从事原工作，也不能从事公司另行安排的工作，甲公司提出解除与周某的劳动合同。关于甲公司可采取的解除劳动合同方式的下列表述中，正确的有（ ）。",
+          "options": [
+            { "key": "A", "text": "提前30日书面通知周某可以解除" },
+            { "key": "B", "text": "无须额外支付工资但提前3日通知周某可以解除" },
+            { "key": "C", "text": "随时通知周某且无须额外支付工资即可解除" },
+            { "key": "D", "text": "额外支付周某1个月工资后可以解除" }
+          ],
+          "answer": ["A", "D"],
+          "analysis": "用人单位“无过失性辞退”：（1）符合法定情形；（2）要么提前30日以书面形式通知劳动者本人，要么额外支付劳动者1个月工资。",
+          "tags": ["劳动合同的解除"],
+          "difficulty": "中",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "section_id": "true_false",
+      "section_name": "判断题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q034",
+          "question_no": "1",
+          "type": "true_false",
+          "stem": "自然人从出生到死亡时享有民事权利。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "自然人从出生时起到死亡时止，具有民事权利能力，依法享有民事权利，承担民事义务。",
+          "tags": ["自然人"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q035",
+          "question_no": "2",
+          "type": "true_false",
+          "stem": "编制虚假财务会计报告尚不构成犯罪的会计人员，5年内不得从事会计工作。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "因伪造、变造会计凭证、会计账簿，编制虚假财务会计报告，隐匿或者故意销毁依法应当保存的会计凭证、会计账簿、财务会计报告，尚不构成犯罪的，5年内不得从事会计工作。",
+          "tags": ["伪造、变造会计资料以及编制虚假财务会计报告的法律责任"],
+          "difficulty": "中",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q036",
+          "question_no": "3",
+          "type": "true_false",
+          "stem": "不具有会计师以上专业技术职务资格的人员，不得担任代理记账机构的负责人。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "主管代理记账业务的负责人具有会计师以上专业技术职务资格（中级会计资格）或者从事会计工作不少于3年，且为专职从业人员。",
+          "tags": ["代理记账"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q037",
+          "question_no": "4",
+          "type": "true_false",
+          "stem": "个体户冯某凭营业执照以其姓名开立银行结算账户，属于个人银行账户。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "个体工商户凭营业执照以字号或经营者姓名开立的银行结算账户纳入单位银行结算账户管理。",
+          "tags": ["银行结算账户的概念和种类"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q038",
+          "question_no": "5",
+          "type": "true_false",
+          "stem": "李某转让新三板挂牌公司原始股取得的所得，应按“财产转让所得”征收个人所得税。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "李某转让新三板挂牌公司原始股取得的所得，应按“财产转让所得”征收个人所得税。",
+          "tags": ["财产转让所得"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q039",
+          "question_no": "6",
+          "type": "true_false",
+          "stem": "租赁方式进境的货物，应以海关审查确定的货物租金作为关税计税价格。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "租赁方式进境的货物，应以海关审查确定的货物租金作为关税计税价格。",
+          "tags": ["关税计税依据"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q040",
+          "question_no": "7",
+          "type": "true_false",
+          "stem": "通过代加工方式生产电子烟的，由持有商标的企业缴纳消费税。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "通过代加工方式生产电子烟的，由持有商标的企业缴纳消费税。",
+          "tags": ["消费税纳税人"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q041",
+          "question_no": "8",
+          "type": "true_false",
+          "stem": "纪念馆在自己的场所提供文化体育服务取得的第一道门票收入，免征增值税。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["T"],
+          "answer_text": "正确",
+          "answer_value": true,
+          "analysis": "纪念馆在自己的场所提供文化体育服务取得的第一道门票收入，免征增值税。",
+          "tags": ["增值税税收优惠"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q042",
+          "question_no": "9",
+          "type": "true_false",
+          "stem": "在中国境内未设立机构、场所的非居民企业取得的来源于中国境内的转让财产所得，以收入全额为企业所得税应纳税所得额。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "在中国境内未设立机构、场所的非居民企业取得的来源于中国境内的转让财产所得，以收入全额减除财产净值后的余额为应纳税所得额。",
+          "tags": ["非居民企业应纳税所得额的计算"],
+          "difficulty": "易",
+          "status": "active"
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q043",
+          "question_no": "10",
+          "type": "true_false",
+          "stem": "劳动争议申请仲裁的时效期间为3年。",
+          "options": [
+            { "key": "T", "text": "正确" },
+            { "key": "F", "text": "错误" }
+          ],
+          "answer": ["F"],
+          "answer_text": "错误",
+          "answer_value": false,
+          "analysis": "劳动争议申请仲裁的时效期间为1年，从当事人知道或者应当知道其权利被侵害之日起计算。",
+          "tags": ["劳动仲裁"],
+          "difficulty": "中",
+          "status": "active"
+        }
+      ]
+    },
+    {
+      "section_id": "indefinite_choice",
+      "section_name": "不定项选择题",
+      "questions": [
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q044",
+          "question_no": "（一）",
+          "type": "indefinite_choice",
+          "stem": "个体工商户刘某经营一家社区超市，该超市于2022年10月12日注册成立。10月18日刘某凭营业执照首次开立了银行结算账户，开户银行为P银行。10月20日向M支付机构申请开立了支付账户以及条码支付业务。为便于收款，在超市内布放了收款扫码机具，并在柜台上张贴了静态条码。10月25日，王某在该超市购买一箱白酒，价格为1200元，使用本人M支付机构支付账户余额，验证本人密码及绑定的指纹完成付款，次日又购买了一桶食用油，首次使用本人Q银行结算账户通过M支付机构完成付款。10月28日，经双方协商同意将王某购买的白酒退货退款。要求：根据上述资料，不考虑其他因素，分析回答下列小题。",
+          "options": [],
+          "sub_questions": [
+            {
+              "sub_no": "1",
+              "question": "10月18日刘某在P银行开立银行结算账户的下列表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "开立的是基本存款账户" },
+                { "key": "B", "text": "该账户无须经中国人民银行当地分支机构核准" },
+                { "key": "C", "text": "开立的是一般存款账户" },
+                { "key": "D", "text": "可以作为个人银行结算账户管理" }
+              ],
+              "answer": ["A", "B"],
+              "analysis": "（1）选项C：首次开立账户为基本存款账户。（2）选项D：个体工商户凭营业执照以字号或经营者姓名开立的银行结算账户纳入单位银行结算账户管理。",
+              "tags": ["银行结算账户的概念和种类"],
+              "difficulty": "易"
+            },
+            {
+              "sub_no": "2",
+              "question": "10月20日支付机构为个体工商户刘某开立支付账户的下列表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "对个体工商户刘某实行实名制管理" },
+                { "key": "B", "text": "登记、验证、核对并留存个体工商户刘某身份基本信息" },
+                { "key": "C", "text": "建立个体工商户刘某唯一识别编码" },
+                { "key": "D", "text": "与个体工商户刘某签订支付账户业务限制协议" }
+              ],
+              "answer": ["A", "B", "C", "D"],
+              "analysis": "（1）选项ABC：支付机构为客户开立支付账户的，应当对客户实行实名制管理，登记并采取有效措施验证客户身份基本信息，按规定核对有效身份证件并留存有效身份证件复印件或者影印件，建立客户唯一识别编码，并在与客户业务关系存续期间采取持续的身份识别措施，确保有效核实客户身份及其真实意愿。（2）选项D：支付机构在为单位和个人开立支付账户时，应当与单位和个人签订协议，约定支付账户与支付账户、支付账户与银行账户之间的日累计转账限额和笔数，超出限额和笔数的，不得再办理转账业务。",
+              "tags": ["网络支付"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "3",
+              "question": "王某购买白酒付款及退货退款的下列表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "王某的支付账户可为I类支付账户" },
+                { "key": "B", "text": "王某可通过展示本人M支付机构APP付款条码方式完成付款" },
+                { "key": "C", "text": "王某可通过本人M支付机构APP识读个体工商户刘某静态条码方式完成付款" },
+                { "key": "D", "text": "王某退货资金只能退至其M支付机构支付账户" }
+              ],
+              "answer": ["B", "D"],
+              "analysis": "（1）选项A：以非面对面方式通过至少一个合法安全的外部渠道进行身份基本信息验证，且首次在该支付机构开立支付账户的个人账户，可以开立I类支付账户，账户余额可用于消费和转账，余额付款交易自账户开立起累计不超过1000元（包括支付账户向客户本人同名银行账户转账），王某支付1200元，超过I类支付账户的限额，所以王某的支付账户不能为I类支付账户。（2）选项B：收款扫码是指收款人通过识读付款人移动终端展示的条码完成支付的行为。所以超市可以利用布放的收款扫码机具扫描王某展示的付款条码。（3）选项C：付款扫码是指付款人通过移动终端识读收款人展示的条码完成支付的行为。风险防范能力达到D级，即使用静态条码的，同一客户单个银行账户或所有支付账户单日累计交易金额应不超过500元。本题中，王某支付1200元，超过限额。所以王某不可以通过M支付机构APP识读个体工商户刘某静态条码方式完成付款。",
+              "tags": ["条码支付"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "4",
+              "question": "王某购买食用油付款的下列表述中，正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "Q银行应当自主识别王某身份" },
+                { "key": "B", "text": "Q银行应当与王某直接签订授权协议" },
+                { "key": "C", "text": "M支付机构应当分别取得王某和Q银行的协议授权" },
+                { "key": "D", "text": "M支付机构应当自主识别王某身份" }
+              ],
+              "answer": ["A", "B", "C", "D"],
+              "analysis": "（1）选项AB：银行应当事先或在首笔交易时自主识别客户身份并与客户直接签订授权协议，明确约定扣款适用范围和交易验证方式，设立与客户风险承受能力相匹配的单笔和单日累计交易限额，承诺无条件全额承担此类交易的风险损失先行赔付责任。（2）选项CD：支付机构向客户开户银行发送支付指令，扣划客户银行账户资金的，应当事先或在首笔交易时自主识别客户身份并分别取得客户和银行的协议授权，同意其向客户的银行账户发起支付指令扣划资金。",
+              "tags": ["网络支付"],
+              "difficulty": "中"
+            }
+          ]
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q045",
+          "question_no": "（二）",
+          "type": "indefinite_choice",
+          "stem": "甲旅游公司（简称“甲公司”）为增值税一般纳税人，主要从事国内旅游业务。2025年12月有关经营情况如下：（1）本公司员工因公出差，支付住宿费，取得增值税专用发票注明税额共计0.6万元；支付餐饮费，取得增值税普通发票注明税额共计0.24万元；支付交通费，取得注明旅客身份信息的公路客票，票面金额共计2.06万元。（2）提供旅游服务收取旅游费636万元，其中向旅游服务购买方收取并支付给其他单位的住宿及餐饮费100万元、景点门票费85万元，支付给其他接团旅游企业的旅游费用200万元，支付给本公司兼职导游的导游费5万元。甲公司选择以收取的旅游费扣除符合规定的费用后的余额为销售额。（3）将2018年购入的4辆旅游客车出租给其他公司，一次性预收12个月含增值税价款45.2万元。甲公司尚未开具发票。（4）将一辆期初净值27.12万元的旅游客车转为专用于本公司职工通勤的班车，该旅游客车于2021年12月购入，购入时原值33.9万元，进项税额已抵扣。已知：货物及有形动产租赁服务增值税税率为13%；购进旅客运输服务，取得注明旅客身份信息的公路、水路客票的，按照3%计算抵扣进项税额；取得的其他增值税扣税凭证均符合规定并于当月申报抵扣。要求：根据上述资料，不考虑其他因素，分析回答下列小题。",
+          "options": [],
+          "sub_questions": [
+            {
+              "sub_no": "1",
+              "question": "有关甲公司当月员工因公出差准予抵扣的进项税额，下列算式正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "0.6+2.06×3%" },
+                { "key": "B", "text": "0.6+0.24+2.06×3%" },
+                { "key": "C", "text": "0.6+0.24+2.06÷(1+3%)×3%" },
+                { "key": "D", "text": "0.6+2.06÷(1+3%)×3%" }
+              ],
+              "answer": ["D"],
+              "analysis": "（1）购进并直接用于消费的餐饮服务（0.24万元）、居民日常服务和娱乐服务对应的进项税额，不得从其销项税额中抵扣，排除选项BC。（2）根据已知条件可知，取得注明旅客身份信息的公路、水路等其他客票，按3%计算抵扣进项税额，计算公式为“进项税额=票面金额÷（1+3%）×3%”，选项A错误，选项D正确。",
+              "tags": ["一般计税方法应纳税额的计算"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "2",
+              "question": "甲公司在计算当月提供旅游服务增值税销售额时，下列费用中，准予扣除的是（ ）。",
+              "options": [
+                { "key": "A", "text": "支付的住宿及餐饮费100万元" },
+                { "key": "B", "text": "支付的景点门票费85万元" },
+                { "key": "C", "text": "支付给其他接团旅游企业的旅游费用200万元" },
+                { "key": "D", "text": "支付给本公司兼职导游的导游费5万元" }
+              ],
+              "answer": ["A", "B", "C"],
+              "analysis": "纳税人提供旅游服务，可以选择以取得的与之相关的全部价款，扣除向旅游服务购买方收取并支付给其他单位或者个人的住宿费、餐饮费、交通费、签证费、门票费和支付给其他接团旅游企业的旅游费用后的余额为销售额。在本题中，选项D不属于上述列明可以扣除的项目，不得扣除。",
+              "tags": ["一般计税方法应纳税额的计算"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "3",
+              "question": "有关甲公司将旅游客车出租给其他公司当月应确认的销项税额，下列算式正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "45.2÷(1+13%)×13%" },
+                { "key": "B", "text": "45.2÷12÷(1+13%)×13%" },
+                { "key": "C", "text": "45.2×13%" },
+                { "key": "D", "text": "45.2÷12×13%" }
+              ],
+              "answer": ["A"],
+              "analysis": "（1）题目明确交代“45.2万元”为含增值税价款，应当作价税分离处理，选项CD错误；（2）甲公司虽未开具发票，但已收到全部款项，全部款项纳税义务均发生于本月，应全部纳入本月销项税额的计算。",
+              "tags": ["一般计税方法应纳税额的计算"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "4",
+              "question": "有关甲公司当月将旅游客车转为专用于本公司职工通勤的班车，下列说法正确的是（ ）。",
+              "options": [
+                { "key": "A", "text": "由于转为专用于集体福利，应作扣减进项税额处理，不得抵扣的进项税额=27.12×13%" },
+                { "key": "B", "text": "由于转为专用于集体福利，应作扣减进项税额处理，不得抵扣的进项税额=27.12÷(1+13%)×13%" },
+                { "key": "C", "text": "由于转为专用于集体福利，应作扣减进项税额处理，不得抵扣的进项税额=33.9×13%" },
+                { "key": "D", "text": "由于转为专用于集体福利，应作扣减进项税额处理，不得抵扣的进项税额=33.9÷(1+13%)×13%" }
+              ],
+              "answer": ["A"],
+              "analysis": "（1）长期资产在用于允许抵扣进项税额项目和不允许抵扣进项税额项目之间发生用途改变的，按照改变当期的“期初净值”计算确定允许抵扣和不得抵扣的进项税额。（2）由于购入时进项税额已抵扣，期初净值为不含增值税金额，不必作价税分离处理。",
+              "tags": ["销项税额的计算"],
+              "difficulty": "中"
+            }
+          ]
+        },
+        {
+          "question_uid": "assistant_accountant.primary_economic_law.2023_set1.q046",
+          "question_no": "（三）",
+          "type": "indefinite_choice",
+          "stem": "甲公司为居民企业（注册地不在中关村国家自主创新示范区特定区域内），主要从事各类食品生产、加工和销售业务，2022年有关经营情况如下：（1）实现销售收入9000万元。（2）缴纳增值税390万元，房产税25.2万元，城镇土地使用税3万元，印花税2.7万元。（3）购买理财产品到期赎回发生投资损失13万元；存货盘亏3万元、由责任人赔偿其中的2.3万元；一台生产设备报废，发生净损失0.1万元；转让一辆运输工具，发生净损失0.35万元。（4）当年发生符合条件的广告费和业务宣传费支出1000万元，以前年度结转至本年度扣除的广告费和业务宣传费支出500万元。（5）符合条件的一项生产技术转让所得800万元。已知：符合条件的广告费和业务宣传费支出，不超过当年销售（营业）收入15%的部分，准予扣除；超过部分，准予在以后纳税年度结转扣除。要求：根据上述资料，不考虑其他因素，分析回答下列小题。",
+          "options": [],
+          "sub_questions": [
+            {
+              "sub_no": "1",
+              "question": "在计算甲公司2022年度企业所得税应纳税所得额时，下列税金中，准予扣除的是（ ）。",
+              "options": [
+                { "key": "A", "text": "增值税390万元" },
+                { "key": "B", "text": "城镇土地使用税3万元" },
+                { "key": "C", "text": "房产税25.2万元" },
+                { "key": "D", "text": "印花税2.7万元" }
+              ],
+              "answer": ["B", "C", "D"],
+              "analysis": "选项A：企业缴纳的增值税，不得税前扣除。",
+              "tags": ["企业所得税税前扣除项目"],
+              "difficulty": "易"
+            },
+            {
+              "sub_no": "2",
+              "question": "在计算甲公司2022年度企业所得税应纳税所得额时，准予扣除的损失合计金额是（ ）。",
+              "options": [
+                { "key": "A", "text": "1.15万元" },
+                { "key": "B", "text": "14.15万元" },
+                { "key": "C", "text": "13.45万元" },
+                { "key": "D", "text": "16.45万元" }
+              ],
+              "answer": ["B"],
+              "analysis": "企业发生的损失，减除责任人赔偿和保险赔款后的余额，依照国务院财政、税务主管部门的规定扣除。可以税前扣除的损失=13+3-2.3+0.1+0.35=14.15（万元）。",
+              "tags": ["企业所得税税前扣除项目"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "3",
+              "question": "在计算甲公司2022年度企业所得税应纳税所得额时，准予扣除的广告费和业务宣传费支出是（ ）。",
+              "options": [
+                { "key": "A", "text": "1350万元" },
+                { "key": "B", "text": "1500万元" },
+                { "key": "C", "text": "1075万元" },
+                { "key": "D", "text": "1000万元" }
+              ],
+              "answer": ["A"],
+              "analysis": "税法扣除限额=9000×15%=1350（万元），待扣金额=本年度发生额+以前年度结转额=1000+500=1500（万元）＞1350万元，税前准予扣除1350万元。",
+              "tags": ["企业所得税税前扣除标准——广告费和业务宣传费"],
+              "difficulty": "中"
+            },
+            {
+              "sub_no": "4",
+              "question": "在计算甲公司2022年度企业所得税应纳税所得额时，符合条件的生产技术转让所得，纳税调整减少的金额是（ ）。",
+              "options": [
+                { "key": "A", "text": "650万元" },
+                { "key": "B", "text": "800万元" },
+                { "key": "C", "text": "400万元" },
+                { "key": "D", "text": "500万元" }
+              ],
+              "answer": ["A"],
+              "analysis": "（1）该项技术转让对会计利润的影响为：增加800万元。（2）由于在一个纳税年度内，居民企业技术转让所得不超过500万元的部分免征企业所得税，超过500万元的部分减半征收企业所得税；因此，该项技术转让所得对应纳税所得额的影响为：增加150万元[（800-500）×50%]。（3）应当纳税调减=800-150=650（万元）。",
+              "tags": ["企业所得税税收优惠"],
+              "difficulty": "中"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
