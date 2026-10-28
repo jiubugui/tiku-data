@@ -1,6 +1,6 @@
 {
   "version": "2026.10.28",
-  "cloudUrl": "",
+  "cloudUrl": "https://cdn.jsdelivr.net/gh/jiubugui/tiku-data@main/app_config.json",
   "categories": [
     {
       "id": "primary",
@@ -9,14 +9,14 @@
         {
           "id": "p_acc",
           "name": "初级会计实务",
-          "papersUrl": "https://example.com/kaoshi/papers/p_acc_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/p_acc_materials.json"
+          "papersUrl": "https://cdn.jsdelivr.net/gh/jiubugui/tiku-data@main/paperList.json",
+          "materialsUrl": "https://cdn.jsdelivr.net/gh/jiubugui/tiku-data@main/materials.json"
         },
         {
           "id": "p_law",
           "name": "经济法基础",
-          "papersUrl": "https://example.com/kaoshi/papers/p_law_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/p_law_materials.json"
+          "papersUrl": "https://cdn.jsdelivr.net/gh/jiubugui/tiku-data@main/paperList.json",
+          "materialsUrl": "https://cdn.jsdelivr.net/gh/jiubugui/tiku-data@main/materials.json"
         }
       ]
     },
@@ -27,20 +27,20 @@
         {
           "id": "m_acc",
           "name": "中级会计实务",
-          "papersUrl": "https://example.com/kaoshi/papers/m_acc_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/m_acc_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "m_fm",
           "name": "财务管理",
-          "papersUrl": "https://example.com/kaoshi/papers/m_fm_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/m_fm_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "m_law",
           "name": "经济法",
-          "papersUrl": "https://example.com/kaoshi/papers/m_law_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/m_law_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         }
       ]
     },
@@ -51,8 +51,8 @@
         {
           "id": "s_acc",
           "name": "高级会计实务",
-          "papersUrl": "https://example.com/kaoshi/papers/s_acc_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/s_acc_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         }
       ]
     },
@@ -63,38 +63,38 @@
         {
           "id": "cpa_acc",
           "name": "会计",
-          "papersUrl": "https://example.com/kaoshi/papers/cpa_acc_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/cpa_acc_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "cpa_audit",
           "name": "审计",
-          "papersUrl": "https://example.com/kaoshi/papers/cpa_audit_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/cpa_audit_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "cpa_fm",
           "name": "财务成本管理",
-          "papersUrl": "https://example.com/kaoshi/papers/cpa_fm_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/cpa_fm_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "cpa_law",
           "name": "经济法",
-          "papersUrl": "https://example.com/kaoshi/papers/cpa_law_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/cpa_law_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "cpa_tax",
           "name": "税法",
-          "papersUrl": "https://example.com/kaoshi/papers/cpa_tax_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/cpa_tax_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "cpa_strategy",
           "name": "公司战略与风险管理",
-          "papersUrl": "https://example.com/kaoshi/papers/cpa_strategy_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/cpa_strategy_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         }
       ]
     },
@@ -105,35 +105,40 @@
         {
           "id": "t_law1",
           "name": "税法(一)",
-          "papersUrl": "https://example.com/kaoshi/papers/t_law1_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/t_law1_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "t_law2",
           "name": "税法(二)",
-          "papersUrl": "https://example.com/kaoshi/papers/t_law2_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/t_law2_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "t_law",
           "name": "涉税服务相关法律",
-          "papersUrl": "https://example.com/kaoshi/papers/t_law_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/t_law_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "t_practice",
           "name": "涉税服务实务",
-          "papersUrl": "https://example.com/kaoshi/papers/t_practice_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/t_practice_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         },
         {
           "id": "t_acc",
           "name": "财务与会计",
-          "papersUrl": "https://example.com/kaoshi/papers/t_acc_papers.json",
-          "materialsUrl": "https://example.com/kaoshi/materials/t_acc_materials.json"
+          "papersUrl": "",
+          "materialsUrl": ""
         }
       ]
     }
+  ],
+  "bannerUrls": [
+    "https://cdn.jsdelivr.net/gh/jiubugui/tiku-data@main/banners/banner1.png",
+    "https://cdn.jsdelivr.net/gh/jiubugui/tiku-data@main/banners/banner2.png",
+    "https://cdn.jsdelivr.net/gh/jiubugui/tiku-data@main/banners/banner3.png"
   ],
   "exam_dates": {
     "primary": "2027-05-15",
