@@ -141,10 +141,10 @@
     "https://cdn.jsdelivr.net/gh/jiubugui/tiku-data@main/banners/banner3.png"
   ],
   "exam_dates": {
-    "primary": "2027-05-15",
-    "intermediate": "2027-09-04",
-    "senior": "2027-05-17",
-    "cpa": "2027-08-23",
-    "tax": "2027-11-07"
+    "primary": "05-15",
+    "intermediate": "09-04",
+    "senior": "05-17",
+    "cpa": "08-23",
+    "tax": "11-07"
   }
 }
