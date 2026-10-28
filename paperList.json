@@ -1,0 +1,29 @@
+[
+  { "id": "2026-初级会计实务-只做好题", "name": "初级会计实务《只做好题》", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "chapter", "path": "2026-初级会计实务-只做好题.json" },
+  { "id": "2026-经济法基础-只做好题", "name": "经济法基础《只做好题》", "exam_name": "初级会计职称", "subject_name": "经济法基础", "type": "chapter", "path": "2026-经济法基础-只做好题.json" },
+
+  { "id": "初级会计实务-2023年真题一", "name": "2023年-初级会计实务真题（一）", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "past", "path": "初级会计实务-2023年真题一.json" },
+  { "id": "初级会计实务-2023年真题二", "name": "2023年-初级会计实务真题（二）", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "past", "path": "初级会计实务-2023年真题二.json" },
+  { "id": "初级会计实务-2024年真题一", "name": "2024年-初级会计实务真题（一）", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "past", "path": "初级会计实务-2024年真题一.json" },
+  { "id": "初级会计实务-2024年真题二", "name": "2024年-初级会计实务真题（二）", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "past", "path": "初级会计实务-2024年真题二.json" },
+  { "id": "初级会计实务-2025年真题一", "name": "2025年-初级会计实务真题（一）", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "past", "path": "初级会计实务-2025年真题一.json" },
+  { "id": "初级会计实务-2025年真题二", "name": "2025年-初级会计实务真题（二）", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "past", "path": "初级会计实务-2025年真题二.json" },
+  { "id": "经济法基础-2023年真题一", "name": "2023年-经济法基础真题（一）", "exam_name": "初级会计职称", "subject_name": "经济法基础", "type": "past", "path": "经济法基础-2023年真题一.json" },
+  { "id": "经济法基础-2023年真题二", "name": "2023年-经济法基础真题（二）", "exam_name": "初级会计职称", "subject_name": "经济法基础", "type": "past", "path": "经济法基础-2023年真题二.json" },
+  { "id": "经济法基础-2024年真题一", "name": "2024年-经济法基础真题（一）", "exam_name": "初级会计职称", "subject_name": "经济法基础", "type": "past", "path": "经济法基础-2024年真题一.json" },
+  { "id": "经济法基础-2024年真题二", "name": "2024年-经济法基础真题（二）", "exam_name": "初级会计职称", "subject_name": "经济法基础", "type": "past", "path": "经济法基础-2024年真题二.json" },
+  { "id": "经济法基础-2025年真题一", "name": "2025年-经济法基础真题（一）", "exam_name": "初级会计职称", "subject_name": "经济法基础", "type": "past", "path": "经济法基础-2025年真题一.json" },
+  { "id": "经济法基础-2025年真题二", "name": "2025年-经济法基础真题（二）", "exam_name": "初级会计职称", "subject_name": "经济法基础", "type": "past", "path": "经济法基础-2025年真题二.json" },
+
+  { "id": "初级会计实务-模拟卷一", "name": "2026初级会计实务模拟卷(一)", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "mock", "path": "初级会计实务-模拟卷一.json" },
+  { "id": "经济法基础-模拟卷一", "name": "2026经济法基础模拟卷(一)", "exam_name": "初级会计职称", "subject_name": "经济法基础", "type": "mock", "path": "经济法基础-模拟卷一.json" },
+
+  { "id": "初级会计实务-专项题一", "name": "专项题一：交易性金融资产", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "special", "path": "初级会计实务-专题一-交易性金融资产.json" },
+  { "id": "初级会计实务-专项题二", "name": "专项题二：存货", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "special", "path": "初级会计实务-专题二-存货.json" },
+  { "id": "初级会计实务-专项题三", "name": "专项题三：固定资产", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "special", "path": "初级会计实务-专题三-固定资产.json" },
+  { "id": "初级会计实务-专项题四", "name": "专项题四：无须资产", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "special", "path": "初级会计实务-专题四-无形资产.json" },
+  { "id": "初级会计实务-专项题五", "name": "专项题五：长期股权投资", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "special", "path": "初级会计实务-专题五-长期股权投资.json" },
+  { "id": "初级会计实务-专项题六", "name": "专项题六：职工薪酬", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "special", "path": "初级会计实务-专题六-职工薪酬.json" },
+  { "id": "初级会计实务-专项题七", "name": "专项题七：所有者权益", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "special", "path": "初级会计实务-专题七-所有者权益.json" },
+  { "id": "初级会计实务-专项题八", "name": "专项题八：收入", "exam_name": "初级会计职称", "subject_name": "初级会计实务", "type": "special", "path": "初级会计实务-专题八-收入.json" }
+]
